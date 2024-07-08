@@ -1,0 +1,2790 @@
+[
+  {
+    "name": "3/4 Sit-Up",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Yere uzanın ve ayaklarınızı sabitleyin. Bacaklarınızı dizlerden bükülmüş olmalıdır.",
+      "Ellerinizi başınızın arkasına veya yanına yerleştirin. Sırtınız yere temas edecek şekilde başlayın. Bu pozisyon başlangıcınızdır.",
+      "Kalçanızı ve omurganızı esneterek gövdenizi dizlerinize doğru kaldırın.",
+      "Kasılmanın en üst noktasında gövdeniz yerden dik olmalıdır. Hareketi tersine çevirin, sadece yolun üçte birine kadar inin.",
+      "Önerilen tekrar sayısı kadar tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "3_4_Sit-Up/0.jpg",
+      "3_4_Sit-Up/1.jpg"
+    ],
+    "id": "3_4_Sit-Up"
+  },
+  {
+    "name": "90/90 Hamstring",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": null,
+    "equipment": "body only",
+    "primaryMuscles": [
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "calves"
+    ],
+    "instructions": [
+      "Sırt üstü yatın ve bir bacağınızı düz bir şekilde uzatın.",
+      "Diğer bacakla kalçayı ve dizleri 90 dereceye bükün. İhtiyacınız varsa bacağınızı ellerinizle destekleyebilirsiniz. Bu başlangıç pozisyonunuz olacak.",
+      "Bacağınızı düz bir şekilde havaya kaldırın, kısa bir süre tepe noktasında durun. Bacak başlangıç pozisyonuna geri dönün.",
+      "10-20 tekrar yapın, sonra diğer bacağa geçin."
+    ],
+    "category": "stretching",
+    "images": [
+      "90_90_Hamstring/0.jpg",
+      "90_90_Hamstring/1.jpg"
+    ],
+    "id": "90_90_Hamstring"
+  },
+  {
+    "name": "Air Bike",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sırtüstü yere uzanın ve alt sırtınızın yerde olduğundan emin olun. Bu egzersiz için başınızın yanına ellerinizi koymalısınız. Ancak boyun kaslarınızı zorlamamaya dikkat edin. Şimdi omuzlarınızı kaldırarak crunch pozisyonuna gelin.",
+      "Dizlerinizi yerden dik açı olacak şekilde yukarı kaldırın, alt bacaklarınızı yerle paralel yapın. Bu başlangıç pozisyonunuz olacak.",
+      "Şimdi aynı anda sağ bacakla pedal çevirir gibi ileriye doğru tekme atın ve sol bacağın dizini göğüsünüze yaklaştırın. Sağ dirseğinizi sol dize doğru yaklaştırarak yan crunch yapın, nefes verirken.",
+      "Nefes alırken başlangıç pozisyonuna geri dönün.",
+      "Bacaklarınızı çevirirken ve sol dirseğinizi sağ dize doğru yaklaştırırken karşı tarafa crunch yapın ve nefes verin.",
+      "Her iki taraf için önerilen tekrarlar tamamlanana kadar bu şekilde sırayla devam edin."
+    ],
+    "category": "strength",
+    "images": [
+      "Air_Bike/0.jpg",
+      "Air_Bike/1.jpg"
+    ],
+    "id": "Air_Bike"
+  },
+  {
+    "name": "All Fours Quad Stretch",
+    "force": "static",
+    "level": "intermediate",
+    "mechanic": null,
+    "equipment": "body only",
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "quadriceps"
+    ],
+    "instructions": [
+      "Elleriniz ve dizleriniz üzerinde başlayın, ardından bir bacağınızı yerden kaldırın ve ayağı elinizle tutun.",
+      "Diz tamamen fleksiyonlu şekilde ayağı veya bileği tutmak için elinizi kullanın, bu şekilde quadriceps ve kalça fleksörlerini germiş olacaksınız.",
+      "Kalçalarınızı uzatmaya odaklanarak yere doğru itin. 10-20 saniye boyunca tutun ve sonra taraf değiştirin."
+    ],
+    "category": "stretching",
+    "images": [
+      "All_Fours_Quad_Stretch/0.jpg",
+      "All_Fours_Quad_Stretch/1.jpg"
+    ],
+    "id": "All_Fours_Quad_Stretch"
+  },
+  {
+    "name": "Alternate Heel Touchers",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sırt üstü yere uzanın, dizleriniz bükülü ve ayaklarınız yaklaşık 45-60 cm aralıklı olarak yerde olsun. Kollarınız vücudunuzun yanında uzatılmış olmalı. Bu başlangıç pozisyonunuzdur.",
+      "Gövdenizi öne doğru 3-4 inç kadar sağ tarafa doğru crunch yapın ve sağ topuğunuza dokunarak kası gerin bir saniye boyunca tutun. Bu hareketi yaparken nefes verin.",
+      "Şimdi yavaşça başlangıç pozisyonuna geri dönün ve nefes alın.",
+      "Şimdi gövdenizi öne doğru 3-4 inç kadar sol tarafa doğru crunch yapın ve sol topuğunuza dokunarak kası gerin bir saniye boyunca tutun. Bu hareketi yaparken nefes verin ve ardından başlangıç pozisyonuna geri dönün. Her iki topuğa dokunduktan sonra bir tekrar olarak kabul edilir.",
+      "Önerilen tekrar sayısına kadar bu şekilde taraf değiştirerek devam edin."
+    ],
+    "category": "strength",
+    "images": [
+      "Alternate_Heel_Touchers/0.jpg",
+      "Alternate_Heel_Touchers/1.jpg"
+    ],
+    "id": "Alternate_Heel_Touchers"
+  },
+  {
+    "name": "Bench Dips",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "shoulders"
+    ],
+    "instructions": [
+      "Bu egzersiz için sırtınıza bir bench yerleştirin. Bench vücudunuza dik olacak şekilde, benchin kenarına ellerinizi omuz genişliğinde tamamen uzatılmış olarak yerleştirin. Bacaklarınızı öne doğru uzatın, belinizden bükülerek ve gövdenize dik olacak şekilde. Bu başlangıç pozisyonunuzdur.",
+      "Dirseklerinizi bükerek nefes alarak yavaşça vücudunuzu aşağı indirin, üst kol ile ön kol arasında hafiften 90 dereceden daha küçük bir açı oluşturacak şekilde. İpucu: Hareket boyunca dirsekleri mümkün olduğunca yakın tutun. Önkollarınız daima aşağıya doğru işaret etmelidir.",
+      "Tricepslerinizi kullanarak gövdenizi yukarı doğru kaldırarak başlangıç pozisyonuna geri getirin.",
+      "Önerilen tekrar sayısı kadar tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Bench_Dips/0.jpg",
+      "Bench_Dips/1.jpg"
+    ],
+    "id": "Bench_Dips"
+  },
+  {
+    "name": "Bench Jump",
+    "force": "push",
+    "level": "intermediate",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Başlangıç pozisyonunuz için önünüzde 30-60 cm uzaklıkta bir kutu veya bench bulundurun. Ayaklarınızı omuz genişliğinde açık bir şekilde ayakta durun. Bu başlangıç pozisyonunuzdur.",
+      "Zıplama için kısa bir squat yapın; kollarınızı arkaya doğru sallayın.",
+      "Bu pozisyondan zıplayarak, kalçalar, dizler ve ayak bilekleriniz üzerinden en yükseğe zıplamak için uzatın. Kollarınızı öne ve yukarı doğru sallayın.",
+      "Bench'in üzerinden zıplayın, dizlerinizi bükerek, darbeyi bacaklarınız üzerinden emerek yerde yere inin.",
+      "Dönün ve karşı yöne dönün, ardından bench'in üzerinden geri zıplayın."
+    ],
+    "category": "plyometrics",
+    "images": [
+      "Bench_Jump/0.jpg",
+      "Bench_Jump/1.jpg"
+    ],
+    "id": "Bench_Jump"
+  },
+  {
+    "name": "Bent-Knee Hip Raise",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Düz bir şekilde sırtüstü yere uzanın, kollarınız vücudunuzun yanında olsun.",
+      "Şimdi dizlerinizi yaklaşık 75 derece bir açıyla bükün ve ayaklarınızı yaklaşık 5 cm yukarı kaldırın.",
+      "Alt karın kaslarınızı kullanarak dizlerinizi göğsünüze doğru çekin, bacaklarınızın 75 derece açılı bükülü olduğunu koruyun. Bu hareketi yaparken pelvisinizi geriye doğru yuvarlayarak kalçalarınızı yerden kaldırın. Bu hareketin bu kısmını yaparken nefes verin. İpucu: Hareketin sonunda dizleriniz göğsünüzün üzerinde olacak.",
+      "Kalça kaldırma hareketinin tepe noktasında bir saniye boyunca karın kaslarınızı sıkın, sonra başlangıç pozisyonuna yavaşça ve nefes alarak geri dönün. İpucu: Her zaman kontrollü bir hareket yapmaya dikkat edin.",
+      "Önerilen tekrar sayısı kadar tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Bent-Knee_Hip_Raise/0.jpg",
+      "Bent-Knee_Hip_Raise/1.jpg"
+    ],
+    "id": "Bent-Knee_Hip_Raise"
+  },
+  {
+    "name": "Body-Up",
+    "force": "push",
+    "level": "intermediate",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "abdominals",
+      "forearms"
+    ],
+    "instructions": [
+      "Yere plank pozisyonunda uzanın. Vücut ağırlığınızı parmak uçlarınız ve ön kollarınız üzerinde destekleyerek, gövdenizi düz bir şekilde tutun. Ön kollarınız omuz genişliğinde olmalıdır. Bu başlangıç pozisyonunuzdur.",
+      "Ellerinizi sıkıca yere bastırarak, dirsekler üzerinden vücudunuzu yere doğru kaldırın. Hareketi yaparken gövdenizi sert tutun.",
+      "Dirseklerinizi bükerek yavaşça ön kollarınızı tekrar yere indirin.",
+      "Tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Body-Up/0.jpg",
+      "Body-Up/1.jpg"
+    ],
+    "id": "Body-Up"
+  },
+  {
+    "name": "Body Tricep Press",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Bir sehpaya bir çubuğu göğüs hizasında yerleştirin.",
+      "Ayakta durun, çubuk üzerinde omuz genişliğinde bir kavrama alın ve birkaç adım geriye doğru atın, ayaklarınızı birleştirin ve kollarınızı uzatın, böylece çubuğa yaslanın. Bu başlangıç pozisyonunuzdur.",
+      "Dirseği bükerek başlayın, kendinizi çubuğa doğru indirin.",
+      "Duraklayın ve sonra ters hareketi yaparak dirsekleri uzatın.",
+      "Omuzlarınızın üzerine zincirler ekleyerek vücut ağırlığından ilerleyin."
+    ],
+    "category": "strength",
+    "images": [
+      "Body_Tricep_Press/0.jpg",
+      "Body_Tricep_Press/1.jpg"
+    ],
+    "id": "Body_Tricep_Press"
+  },
+  {
+    "name": "Bodyweight Squat",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Ayaklarınızı omuz genişliğinde açık bir şekilde ayakta durun. Ellerinizi başınızın arkasına koyabilirsiniz. Bu başlangıç pozisyonunuzdur.",
+      "Harekete dizlerinizi ve kalçalarınızı bükerek başlayın, kalçanızı geriye oturarak.",
+      "Eğer yapabiliyorsanız tam derinliğe kadar devam edin ve hızlı bir şekilde ters hareketi yaparak başlangıç pozisyonuna dönün. Squat yaparken başınızı ve göğsünüzü dik tutun ve dizlerinizi dışarı doğru itin."
+    ],
+    "category": "strength",
+    "images": [
+      "Bodyweight_Squat/0.jpg",
+      "Bodyweight_Squat/1.jpg"
+    ],
+    "id": "Bodyweight_Squat"
+  },
+  {
+    "name": "Bottoms Up",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sırt üstü yere uzanarak başlayın. Bacaklarınız düz olmalı ve kollarınız yanınızda olmalıdır. Bu başlangıç pozisyonunuzdur.",
+      "Hareketi yapmak için, kalçaları ve dizleri bükerek dizleri göğsünüze doğru çekin. Ardından, bacaklarınızı doğrudan üzerinize doğru uzatın, böylece yerle dik olarak olacaklar. Pelvisinizi döndürerek ve kaldırarak kalçanızı yerden kaldırın.",
+      "Kısa bir duraklamanın ardından, başlangıç pozisyonuna geri dönün."
+    ],
+    "category": "strength",
+    "images": [
+      "Bottoms_Up/0.jpg",
+      "Bottoms_Up/1.jpg"
+    ],
+    "id": "Bottoms_Up"
+  },
+  {
+    "name": "Butt-Ups",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Dirseklerinizin yerde olduğu ve ön kollarınızın üzerinde dinlendiği bir şınav pozisyonuyla başlayın. Kollarınız 90 derece açıyla bükülü olmalıdır. Bu başlangıç pozisyonunuz olacak.",
+      "Sırtınızı tamamen düz tutmak yerine hafifçe kemer şeklinde çıkarın.",
+      "Kasıklarınızı tavana doğru kaldırın, karın kaslarınızı sıkarak kaburga kafesinizle kalçalarınız arasındaki mesafeyi kapatın. Sonuç olarak yüksek bir köprü pozisyonunda olacaksınız. Bu hareketin bu kısmını yaparken nefes verin.",
+      "Nefes alırken yavaşça başlangıç pozisyonuna geri inin. İpucu: Sırtınızın aşağı doğru sarkmasına izin vermeyin.",
+      "Önerilen tekrar sayısı kadar tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Butt-Ups/0.jpg",
+      "Butt-Ups/1.jpg"
+    ],
+    "id": "Butt-Ups"
+  },
+  {
+    "name": "Butt Lift (Bridge)",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings"
+    ],
+    "instructions": [
+      "Sırtüstü yere uzanın, ellerinizi yanınızda tutun ve dizleriniz bükülü olsun. Ayaklarınız omuz genişliğinde olmalıdır. Bu başlangıç pozisyonunuz olacak.",
+      "Başlıca topuklarınızı kullanarak kalçanızı yerden kaldırın, sırtınızı düz tutarak. Bu hareketi yaparken nefes verin ve tepe noktada bir saniye kadar bekleyin.",
+      "Nefes alırken yavaşça başlangıç pozisyonuna dönün."
+    ],
+    "category": "strength",
+    "images": [
+      "Butt_Lift_Bridge/0.jpg",
+      "Butt_Lift_Bridge/1.jpg"
+    ],
+    "id": "Butt_Lift_Bridge"
+  },
+  {
+    "name": "Chin-Up",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "forearms",
+      "middle back"
+    ],
+    "instructions": [
+      "Barfiks barını avuç içleriniz gövdenize bakacak şekilde ve omuz genişliğinden daha yakın bir tutuşla kavrayın.",
+      "Her iki kolunuzu önünüzde uzatarak barı seçtiğiniz tutuş genişliğinde tutarken, belinizde bir kavis oluşturup göğsünüzü dışarı çıkarırken gövdenizi mümkün olduğunca düz tutun. Bu sizin başlangıç pozisyonunuzdur. İpucu: Gövdenin mümkün olduğunca düz tutulması biseps uyarımını en üst düzeye çıkarırken sırtın tutulmasını en aza indirir.",
+      "Nefes verirken başınız barfiks çubuğunun hizasına gelene kadar gövdenizi yukarı çekin. Hareketi gerçekleştirmek için biseps kaslarını kullanmaya odaklanın. Dirseklerinizi vücudunuza yakın tutun. İpucu: Üst gövde boşlukta hareket ederken sabit kalmalı ve sadece kollar hareket etmelidir. Ön kollar barı tutmaktan başka bir iş yapmamalıdır.",
+      "Bicepsleri kasılmış pozisyonda bir saniye sıktıktan sonra, gövdenizi yavaşça başlangıç pozisyonuna geri indirin; kollarınız tamamen uzatıldığında. Hareketin bu kısmını gerçekleştirirken nefes alın.",
+      "Bu hareketi öngörülen tekrar sayısı kadar tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Chin-Up/0.jpg",
+      "Chin-Up/1.jpg"
+    ],
+    "id": "Chin-Up"
+  },
+  {
+    "name": "Clock Push-Up",
+    "force": "push",
+    "level": "intermediate",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Yere yüz üstü pozisyonda gelin, ağırlığınızı elleriniz ve parmak uçlarınız üzerinde destekleyin.",
+      "Kollarınız tamamen uzatılmış halde eller omuz genişliğinde olsun. Hareket boyunca vücudunuzu düz tutun. Bu başlangıç pozisyonunuz olacak.",
+      "Dirseğinizden bükülerek, göğsünüzü yere doğru indirin.",
+      "Alt noktada, vücudunuzu hızlıca kaldırarak tekrar yukarı doğru itmeye başlayın. Amaç, bir taraftan diğerine 30-45 cm arası bir mesafeyle \"zıplamak\" olmalıdır.",
+      "Yukarı çıkarken, hareket ettiğiniz yönden dışarıdaki ayağınızı uzaklaştırın. Havada iken, bir sonraki tekrar için vücudunuzu yaklaşık olarak 30 derece hareket ettirin.",
+      "Başlangıç pozisyonuna geri dönün ve egzersizi tekrarlayın, başladığınız yere dönene kadar tüm yönlerde çalışın."
+    ],
+    "category": "strength",
+    "images": [
+      "Clock_Push-Up/0.jpg",
+      "Clock_Push-Up/1.jpg"
+    ],
+    "id": "Clock_Push-Up"
+  },
+  {
+    "name": "Close-Grip Push-Up off of a Dumbbell",
+    "force": "push",
+    "level": "intermediate",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "abdominals",
+      "chest",
+      "shoulders"
+    ],
+    "instructions": [
+      "Yere uzanın ve ellerinizi dik bir dambılın üzerine koyun. Ağırlığınızı ayak parmaklarınız ve elleriniz üzerinde destekleyerek gövdenizi sabit tutun ve kollarınız düz olacak şekilde dirseklerinizi içeride tutun. Bu sizin başlangıç pozisyonunuz olacak.",
+      "Nefes alırken dirseklerinizin esnemesine izin vererek vücudunuzu indirin. Vücudunuzu düz tutun, kalçalarınızın yükselmesine veya sarkmasına izin vermeyin.",
+      "Dirsekleri uzatarak kendinizi başlangıç pozisyonuna geri itin. Bu adımı gerçekleştirirken nefes verin.",
+      "Kasılma pozisyonunda bir duraklamadan sonra, hareketi öngörülen tekrar sayısı kadar tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Close-Grip_Push-Up_off_of_a_Dumbbell/0.jpg",
+      "Close-Grip_Push-Up_off_of_a_Dumbbell/1.jpg"
+    ],
+    "id": "Close-Grip_Push-Up_off_of_a_Dumbbell"
+  },
+  {
+    "name": "Cocoons",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Yere sırt üstü uzanarak başlayın. Bacaklarınız düz ve kollarınız başınızın arkasında uzatılmış olmalıdır. Bu sizin başlangıç pozisyonunuz olacaktır.",
+      "Hareketi gerçekleştirmek için dizlerinizi göğsünüze doğru çekin ve kalça kaslarınızı yerden kaldırmak için pelvisinizi döndürün. Bunu yaparken omurganızı esnetin ve eş zamanlı bir crunch hareketi yapmak için kollarınızı başınızın üzerine geri getirin.",
+      "Kısa bir duraklamadan sonra başlangıç pozisyonuna dönün."
+    ],
+    "category": "strength",
+    "images": [
+      "Cocoons/0.jpg",
+      "Cocoons/1.jpg"
+    ],
+    "id": "Cocoons"
+  },
+  {
+    "name": "Cross-Body Crunch",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Düz bir şekilde sırt üstü yatın ve dizlerinizi yaklaşık olarak 60 derece bükün.",
+      "Ayaklarınızı yere düz bir şekilde yerleştirin ve ellerinizi başınızın arkasına gevşek bir şekilde koyun. Bu başlangıç pozisyonunuz olacak.",
+      "Şimdi karnınızı kıvırın ve sağ dirseğinizi ve omzunuzu vücudunuzun karşı tarafına getirin, aynı anda sol dizinizi sol omzunuza doğru getirin. Dirseğinizle dizenize dokunmaya çalışın. Bu hareketi yaparken nefes verin. İpucu: Sadece dirseğinizi değil omzunuzu da mümkün olduğunca yukarı kaldırmaya çalışın ve hareketi yaparken karın kaslarını sıkmanın önemli olduğunu unutmayın; sadece dirseği hareket ettirmek değil.",
+      "Sol dirseği ve sağ dizinizi kullanarak başlangıç pozisyonuna geri dönün, nefes alırken tekrarlayın.",
+      "Tüm önerilen tekrarlar tamamlanana kadar bu şekilde devam edin."
+    ],
+    "category": "strength",
+    "images": [
+      "Cross-Body_Crunch/0.jpg",
+      "Cross-Body_Crunch/1.jpg"
+    ],
+    "id": "Cross-Body_Crunch"
+  },
+  {
+    "name": "Crunch - Hands Overhead",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sırtınızı düz bir şekilde yerleştirin ve dizlerinizi 60 derece civarında bükün, arka baldır ve baldır arasında bir açı oluşturun.",
+      "Ayaklarınızı düz bir şekilde yerleştirin ve avuç içleriniz çapraz olacak şekilde kollarınızı başınızın üzerine uzatın. Bu başlangıç pozisyonunuz olacak.",
+      "Üst vücudunuzu kıvırın ve omuz bıçaklarınızı sadece yerden kaldırın. Tüm zaman boyunca, kollarınızı başınız, boyun ve omuzunuzla hizalı tutun. Bu konumdan ileriye doğru hareket ettirmeyin. Bu hareketi yaparken nefes verin ve kası saniyelik bir süre tutun.",
+      "Nefes alırken başlangıç pozisyonuna yavaşça geri inin.",
+      "Önerilen tekrar sayısına kadar tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Crunch_-_Hands_Overhead/0.jpg",
+      "Crunch_-_Hands_Overhead/1.jpg"
+    ],
+    "id": "Crunch_-_Hands_Overhead"
+  },
+  {
+    "name": "Crunch - Legs On Exercise Ball",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sırtüstü uzanın ve ayaklarınızı bir egzersiz topunun üzerine yerleştirin, dizleriniz 90 derecelik bir açıyla bükülü olsun.",
+      "Ayaklarınızı üç ila dört inç aralıkla yerleştirin ve parmak uçlarınızı içeri doğru yönlendirin, topa dokunsunlar.",
+      "Ellerinizi hafifçe başınızın yanına yerleştirin ve dirseklerinizi içe doğru tutun. İpucu: Başınızın arkasında parmaklarınızı kilitlemeyin.",
+      "Karın kaslarınızı daha iyi izole etmek için belinizin küçük kısmını yere bastırın. Bu başlangıç pozisyonunuz olacak.",
+      "Omuzlarınızı yere doğru kaldırmaya başlayın ve alt sırtınızı ne kadar sıkı bastırabiliyorsanız o kadar sıkı bastırın. Omuzlarınız sadece yaklaşık dört inç kadar yukarı kalkmalı ve alt sırtınız yerde kalmalıdır. Bu hareketi yaparken nefes verin. Kaslarınızı en üstte sıkın ve bir saniye boyunca tutun. İpucu: Yavaş, kontrollü bir harekete odaklanın. Herhangi bir zamanda momentum kullanmaktan kaçının.",
+      "Nefes alırken yavaşça başlangıç pozisyonuna geri dönün.",
+      "Önerilen tekrar sayısına kadar tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Crunch_-_Legs_On_Exercise_Ball/0.jpg",
+      "Crunch_-_Legs_On_Exercise_Ball/1.jpg"
+    ],
+    "id": "Crunch_-_Legs_On_Exercise_Ball"
+  },
+  {
+    "name": "Crunches",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sırtüstü uzanın ve ayaklarınızı yerde düz veya dizleriniz 90 derece açıyla bükülmüş bir bankta dinlenirken yerleştirin. Ayaklarınızı bir bankta dinlendiriyorsanız, üç ila dört inç aralıklı ve parmak uçlarınızı içeri doğru yönlendirerek yerleştirin.",
+      "Şimdi ellerinizi hafifçe başınızın yanına yerleştirin ve dirseklerinizi içe doğru tutun. İpucu: Başınızın arkasında parmaklarınızı kilitlemeyin.",
+      "Karın kaslarınızı daha iyi izole etmek için belinizin küçük kısmını yere bastırarak omuzlarınızı yere doğru kaldırmaya başlayın.",
+      "Omuzlarınızı yere doğru bastırmaya devam ederken alt sırtınızı ne kadar sıkı bastırabiliyorsanız o kadar sıkı bastırın ve karın kaslarınızı kasın ve nefes verin. Omuzlarınız sadece yaklaşık dört inç kadar yukarı kalkmalı ve alt sırtınız yerde kalmalıdır. Hareketin en üst noktasında karın kaslarınızı sıkın ve bir saniye boyunca kasılı tutun. İpucu: Yavaş, kontrollü harekete odaklanın - momentum kullanarak kendinizi aldatmayın.",
+      "Bir saniye kasılmanın ardından yavaşça başlangıç pozisyonuna geri dönmeye başlayın ve nefes alın.",
+      "Önerilen tekrar sayısı kadar tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Crunches/0.jpg",
+      "Crunches/1.jpg"
+    ],
+    "id": "Crunches"
+  },
+  {
+    "name": "Dead Bug",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Ellerinizi tavana doğru uzatarak sırt üstü yatmaya başlayın.",
+      "Ayaklarınızı, dizlerinizi ve kalçalarınızı 90 dereceye getirin.",
+      "Göğüs kafesinizi aşağı indirmek için nefesinizi sertçe verin ve sırtınızı yere doğru düzleştirin, pelvisinizi yukarı döndürün ve kalça kaslarınızı sıkın. Hareket boyunca bu pozisyonu koruyun. Bu sizin başlangıç pozisyonunuz olacaktır.",
+      "Egzersize bir bacağınızı uzatarak başlayın, dizinizi ve kalçanızı düzleştirerek bacağınızı yerin hemen üstüne getirin.",
+      "Hareketi yaparken belinizin ve leğen kemiğinizin pozisyonunu koruyun, çünkü sırtınız kavis yapmak isteyecektir.",
+      "Sıkı durun ve çalışan bacağı başlangıç pozisyonuna geri getirin.",
+      "Set tamamlanana kadar dönüşümlü olarak karşı tarafta tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Dead_Bug/0.jpg",
+      "Dead_Bug/1.jpg"
+    ],
+    "id": "Dead_Bug"
+  },
+  {
+    "name": "Decline Crunch",
+    "force": "pull",
+    "level": "intermediate",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Bacaklarınızı eğimli benchin ucuna sabitleyin ve sırtüstü uzanın.",
+      "Şimdi ellerinizi başınızın her iki yanına hafifçe yerleştirin, dirseklerinizi içeri doğru tutun. İpucu: Başınızın arkasına parmaklarınızı kilitlemeyin.",
+      "Karın kaslarınızı izole etmek için benchin üzerindeki küçük sırtınızı aşağı doğru bastırırken omuzlarınızı benchten kaldırmaya başlayın.",
+      "Aşağı sırtınızı benchte sıkı bir şekilde bastırmaya devam ederken karın kaslarınızı kasarak ve nefes vererek yukarı doğru omuzlarınızı sadece yaklaşık dört inç kaldırmalısınız ve alt sırtınız benchte kalmalıdır. Hareketin üst noktasında karın kaslarınızı sıkın ve bir saniye boyunca kasılı tutun. İpucu: Yavaş, kontrollü hareket üzerine odaklanın - momentum kullanarak kendinizi aldatmayın.",
+      "Bir saniye kasılma sonrasında yavaşça başlangıç pozisyonuna doğru tekrar inmeye başlayın ve nefes alın.",
+      "Tavsiye edilen tekrar sayısını yapmak için tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Decline_Crunch/0.jpg",
+      "Decline_Crunch/1.jpg"
+    ],
+    "id": "Decline_Crunch"
+  },
+  {
+    "name": "Decline Oblique Crunch",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Bacaklarınızı eğimli benchin ucuna sabitleyin ve yavaşça benchin üzerine uzanın.",
+      "Üst vücudunuzu benchten kaldırın ve gövdeniz yaklaşık 35-45 derece açı yapacak şekilde yükseltin.",
+      "Bir elinizi başınızın yanına, diğer elinizi ise uyluğunuza koyun. Bu başlangıç ​​pozisyonunuz olacak.",
+      "Üst vücudunuzu başlangıç pozisyonundan yavaşça kaldırırken gövdenizi sola doğru çevirin. Sol dirseğiniz sağ dizinize değene kadar sıkıştırarak yukarı doğru çıkın ve nefes verin. Bu kasılmış pozisyonu bir saniye boyunca tutun. İpucu: Karın kaslarınızı sıkı tutmaya ve hareketi yavaş ve kontrollü yapmaya odaklanın.",
+      "Başlangıç pozisyonuna doğru yavaşça vücudunuzu tekrar indirin ve nefes alın.",
+      "Tavsiye edilen tekrar sayısı kadar sağ taraf için bir set tamamladıktan sonra, sol tarafa geçin. İpucu: Gerçekten gövdenizi döndürmeye ve yukarı pozisyonda kasılma hissini hissetmeye odaklanın."
+    ],
+    "category": "strength",
+    "images": [
+      "Decline_Oblique_Crunch/0.jpg",
+      "Decline_Oblique_Crunch/1.jpg"
+    ],
+    "id": "Decline_Oblique_Crunch"
+  },
+  {
+    "name": "Decline Reverse Crunch",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sırtüstü olarak eğimli bir bench üzerine uzanın ve her iki elinizle benchin üst kısmına sıkıca tutun. Vücudunuzun bu pozisyondan kaymasına izin vermeyin.",
+      "Karın kaslarınızı kullanarak bacaklarınızı yerde paralel tutun, dizlerinizi ve ayaklarınızı bir arada tutarken. İpucu: Bacaklarınız hafifçe bükülmüş ve dizde hafif bir kıvrım olacak şekilde tamamen uzatılmalıdır. Bu başlangıç pozisyonunuz olacaktır.",
+      "Nefes verirken, pelvisinizi geriye doğru yuvarlayarak ve kalçalarınızı benchten kaldırarak bacaklarınızı gövdeye doğru hareket ettirin. Bu hareketin sonunda dizleriniz göğsünüze dokunacak.",
+      "Kasılma pozisyonunu bir saniye boyunca tutun ve nefes alırken bacaklarınızı başlangıç pozisyonuna geri getirin.",
+      "Tavsiye edilen tekrar sayısı kadar tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Decline_Reverse_Crunch/0.jpg",
+      "Decline_Reverse_Crunch/1.jpg"
+    ],
+    "id": "Decline_Reverse_Crunch"
+  },
+  {
+    "name": "Dips - Triceps Version",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "shoulders"
+    ],
+    "instructions": [
+      "Başlangıç pozisyonuna geçmek için, kollarınız neredeyse kilitlenmiş şekilde barların üzerinde vücudunuzu kol uzunluğunda tutun.",
+      "Şimdi nefes alın ve yavaşça kendinizi aşağı doğru indirin. Gövdeniz dik durmalı ve dirsekleriniz vücudunuza yakın kalmalıdır. Bu, trisepsi daha iyi odaklamaya yardımcı olur. Kendinizi, üst kol ile alt kol arasında 90 derecelik bir açı oluşana kadar indirin.",
+      "Sonra nefes verin ve trisepsinizi kullanarak gövdenizi başlangıç pozisyonuna geri itin.",
+      "Tavsiye edilen tekrar sayısı kadar hareketi tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Dips_-_Triceps_Version/0.jpg",
+      "Dips_-_Triceps_Version/1.jpg"
+    ],
+    "id": "Dips_-_Triceps_Version"
+  },
+  {
+    "name": "Double Leg Butt Kick",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "abductors",
+      "adductors",
+      "calves",
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Dizleriniz hafifçe bükülü olarak ayakta başlayın.",
+      "Hızla biraz squat yapın, kalçaları ve dizleri fleksiyon yaparak ve hemen ardından maksimum dikey yükseklik için sıçramayı uzatın.",
+      "Yukarı çıkarken, dizleri fleksiyon yaparak topuklarınızı kalçalarınıza dokunmaya çalışın.",
+      "Hareketi dizleriniz sadece kısmen bükülü olarak inerek ve darbeyi emmek için bacaklarınızı kullanarak tamamlayın."
+    ],
+    "category": "plyometrics",
+    "images": [
+      "Double_Leg_Butt_Kick/0.jpg",
+      "Double_Leg_Butt_Kick/1.jpg"
+    ],
+    "id": "Double_Leg_Butt_Kick"
+  },
+  {
+    "name": "Elbow to Knee",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Yerde uzanın, sağ bacağınızı bükülmüş sol dizinizin üzerine çaprazlayın. Ellerinizi başınızın arkasında kenetleyin ve omuz bıçaklarınızı yere basın. Bu başlangıç pozisyonunuz olacaktır.",
+      "Omurgayı fleksiyon yaparak ve gövdenizi döndürerek sol dirseği sağ dizinize getirerek hareketi gerçekleştirin.",
+      "Başlangıç pozisyonuna geri dönün ve istenen tekrar sayısını tamamlamadan önce taraf değiştirerek hareketi tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Elbow_to_Knee/0.jpg",
+      "Elbow_to_Knee/1.jpg"
+    ],
+    "id": "Elbow_to_Knee"
+  },
+  {
+    "name": "Fast Skipping",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "abductors",
+      "adductors",
+      "calves",
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Bir bacağınız hafifçe önde olacak şekilde rahat bir pozisyonda başlayın. Bu başlangıç pozisyonunuz olacaktır.",
+      "Sağ-sağ-adım ve sol-sol-adım şeklinde sırayla ileri geri hareket ederek atlamaya başlayın.",
+      "Hızlı atlamaları gerçekleştirmek için yerle teması yakın tutun ve hava zamanını azaltarak mümkün olduğunca hızlı hareket edin."
+    ],
+    "category": "plyometrics",
+    "images": [
+      "Fast_Skipping/0.jpg",
+      "Fast_Skipping/1.jpg"
+    ],
+    "id": "Fast_Skipping"
+  },
+  {
+    "name": "Flat Bench Leg Pull-In",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Bir egzersiz matı veya düz bir bench üzerinde sırtüstü uzanın, bacaklarınız benchin ucundan sarkacak şekilde olmalıdır.",
+      "Ellerinizi ya gluteus kaslarınızın altına avuç içi aşağıda yerleştirin veya yanlarda bench'e veya egzersiz matına tutunarak başlangıç pozisyonunu alın. Bacaklarınızı düz bir şekilde uzatın.",
+      "Nefes vererek dizlerinizi bükün ve üst uyluklarınızı karın bölgenize çekin. Bu hareketi dizleriniz göğsünüze yaklaşana kadar sürdürün. Kasılmış pozisyonu bir saniye boyunca tutun.",
+      "Nefes alırken yavaşça başlangıç pozisyonuna geri dönün.",
+      "Tavsiye edilen tekrar sayısı kadar tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Flat_Bench_Leg_Pull-In/0.jpg",
+      "Flat_Bench_Leg_Pull-In/1.jpg"
+    ],
+    "id": "Flat_Bench_Leg_Pull-In"
+  },
+  {
+    "name": "Flat Bench Lying Leg Raise",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sırtınızı düz bir bench üzerine yatırın ve bacaklarınızı benchin ucundan sarkacak şekilde düz bir şekilde uzatın.",
+      "Ellerinizi ya gluteus kaslarınızın altına avuç içi aşağıda yerleştirin veya yanlarda bench'e tutunarak başlangıç pozisyonunu alın. Bu başlangıç pozisyonunuz olacaktır.",
+      "Bacaklarınızı mümkün olduğunca düz ve dizleriniz hafifçe bükülmüş ancak kilitleyerek yukarı kaldırın, böylece bacaklarınız zeminle 90 derece açı yapacak şekilde oluşur. Bu hareketin bu kısmını yaparken nefes verin ve en üstteki kasılmayı bir saniye boyunca tutun.",
+      "Şimdi nefes alırken bacaklarınızı yavaşça başlangıç pozisyonuna indirin."
+    ],
+    "category": "strength",
+    "images": [
+      "Flat_Bench_Lying_Leg_Raise/0.jpg",
+      "Flat_Bench_Lying_Leg_Raise/1.jpg"
+    ],
+    "id": "Flat_Bench_Lying_Leg_Raise"
+  },
+  {
+    "name": "Flutter Kicks",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings"
+    ],
+    "instructions": [
+      "Düz bir bench üzerine yüzüstü uzanın, kalçalarınız benchin kenarında, bacaklarınız düz ve parmak uçları yerden yüksek olacak şekilde, elleriniz benchin ön kenarına tutunarak başlangıç pozisyonunu alın.",
+      "Gluteus kaslarınızı ve arka uyluk kaslarınızı sıkın ve bacakları kalçalarla aynı seviyeye kadar düzleştirin. Bu başlangıç pozisyonunuz olacaktır.",
+      "Harekete sol bacağı sağ bacadan daha yüksek kaldırarak başlayın.",
+      "Sonra sağ bacağı kaldırırken sol bacağı indirin.",
+      "Bu şekilde devam ederek (sanki suyun içinde flutter kick yapıyormuş gibi), her bacak için tavsiye edilen tekrar sayısını tamamlayın. Hareketi her zaman kontrollü bir şekilde yapmaya özen gösterin. İpucu: Bu hareketi yaparken normal bir şekilde nefes alın."
+    ],
+    "category": "strength",
+    "images": [
+      "Flutter_Kicks/0.jpg",
+      "Flutter_Kicks/1.jpg"
+    ],
+    "id": "Flutter_Kicks"
+  },
+  {
+    "name": "Freehand Jump Squat",
+    "force": "push",
+    "level": "intermediate",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Kollarınızı göğsünüzün üzerinde çaprazlayın.",
+      "Başınızı yukarıda tutarak ve sırtınızı düz tutarak ayaklarınızı omuz genişliğinde açın.",
+      "Sırtınızı düz ve göğsünüzü yukarıda tutarak, üst bacaklarınız yere paralel veya daha düşük olacak şekilde nefes alarak squat pozisyonuna inin.",
+      "Ayak parmaklarınızın toplarını kullanarak, dizleri yay gibi kullanarak mümkün olduğunca yukarı doğru zıplayın. Bu hareket sırasında nefes verin.",
+      "Yere tekrar temas ettiğinizde, hemen squat pozisyonuna inin ve tekrar zıplayın.",
+      "Tavsiye edilen tekrar sayısını tamamlayana kadar tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Freehand_Jump_Squat/0.jpg",
+      "Freehand_Jump_Squat/1.jpg"
+    ],
+    "id": "Freehand_Jump_Squat"
+  },
+  {
+    "name": "Frog Sit-Ups",
+    "force": "pull",
+    "level": "intermediate",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sırtüstü uzanın, sırtınız düz bir şekilde yerde (veya egzersiz matında) ve bacaklarınızı önünüzde uzatın.",
+      "Şimdi dizlerinizden bükülerek dış uyluklarınızı yere (veya matın üstüne) yerleştirin ve ayak tabanlarınızı birbirine dokundurun.",
+      "Şimdi her iki ayak tabanını iterek ve dış uylukları yerde tutarak (veya neredeyse dokunarak) mümkün olduğunca yakınınıza getirin. İpucu: Bu pozisyonda bacaklarınız elmas şekli oluşturmalıdır.",
+      "Şimdi, karşı omuzlara dokunarak kollarınızı önünüzde çaprazlayın. Bu başlangıç pozisyonunuz olacaktır.",
+      "Nefes verirken alt sırtınızı yere düzleştirerek torsoyu yukarı doğru kıvırın. İpucu: Bu, bir sit-up hareketinin ilk çeyreğini yapmak gibi olacaktır. Zirve pozisyonunda bir saniye boyunca tutun.",
+      "Nefes alırken yavaşça başlangıç pozisyonuna geri dönün.",
+      "Tavsiye edilen tekrar sayısı kadar tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Frog_Sit-Ups/0.jpg",
+      "Frog_Sit-Ups/1.jpg"
+    ],
+    "id": "Frog_Sit-Ups"
+  },
+  {
+    "name": "Front Leg Raises",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": null,
+    "equipment": "body only",
+    "primaryMuscles": [
+      "hamstrings"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Bir sandalye veya başka bir destek yanında durun ve bir elinizle destek üzerine tutunun.",
+      "Bacaklarınızı ileri doğru sallayın, bacağı düz tutarak. Aşağı doğru bir salınım yapmaya devam edin, bacağı esnekliğiniz izin verdiği kadar geriye getirin. 5-10 kez tekrarlayın, sonra bacakları değiştirin."
+    ],
+    "category": "stretching",
+    "images": [
+      "Front_Leg_Raises/0.jpg",
+      "Front_Leg_Raises/1.jpg"
+    ],
+    "id": "Front_Leg_Raises"
+  },
+  {
+    "name": "Glute Kickback",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings"
+    ],
+    "instructions": [
+      "Yere veya bir egzersiz matına diz çökün ve belinizden bükülerek başınızı öne doğru uzatın (gövdeye dik açıda) ve omuz genişliğinde aralıklı olarak kollarınızı öne uzatın. Başınız ileriye bakmalı ve dizler arasında arka uyluklar ile baldırlar arasında 90 derecelik bir açı oluşturulmalıdır. Bu başlangıç pozisyonunuz olacaktır.",
+      "Nefes verirken sağ bacağınızı yukarı kaldırın, arka uyluklar sırtla hizaya gelene kadar bükülü olan 90 derece açısını koruyun. Bu hareket boyunca gluteus kaslarınızı sıkın ve zirvede bir saniye boyunca kasılı pozisyonu tutun. İpucu: Hareketin sonunda üst bacak zemine paralel olmalıdır, baldır ise buna dik olmalıdır.",
+      "Nefes alırken başlangıç pozisyonuna geri dönün ve şimdi sol bacakla tekrarlayın.",
+      "Tavsiye edilen tekrar sayısına kadar bacakları sırayla değiştirerek devam edin."
+    ],
+    "category": "strength",
+    "images": [
+      "Glute_Kickback/0.jpg",
+      "Glute_Kickback/1.jpg"
+    ],
+    "id": "Glute_Kickback"
+  },
+  {
+    "name": "Gorilla Chin/Crunch",
+    "force": "pull",
+    "level": "intermediate",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "lats"
+    ],
+    "instructions": [
+      "Çene çekme çubuğuna, avuç içi size bakacak şekilde hafifçe omuz genişliğinden daha geniş bir alt kavrama (underhand grip) ile asın.",
+      "Şimdi dizlerinizi 90 derece bükün, böylece baldırlar zemine paralel olurken üst bacaklar zemine dik olmalıdır. Bu başlangıç pozisyonunuz olacaktır.",
+      "Nefes verirken kendinizi çekerek aynı anda dizlerinizi göğsünüze doğru kaldırın, dizleriniz göğüs seviyesine gelene kadar çekme hareketini yapın. Burnunuz çubuğun seviyesine geldiğinde durun. İpucu: Bu noktaya geldiğinizde, aynı zamanda crunch hareketini bitirmiş olmalısınız.",
+      "Başlangıç pozisyonuna dönerken yavaşça nefes almaya başlayın.",
+      "Tavsiye edilen tekrar sayısı kadar tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Gorilla_Chin_Crunch/0.jpg",
+      "Gorilla_Chin_Crunch/1.jpg"
+    ],
+    "id": "Gorilla_Chin_Crunch"
+  },
+  {
+    "name": "Groiners",
+    "force": "pull",
+    "level": "intermediate",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "adductors"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Yere push-up pozisyonunda başlayın. Bu, başlangıç pozisyonunuz olacaktır.",
+      "İki bacakla öne doğru zıplayarak ayaklarınızı ellerinizin yanına indirin. Bu hareketi yaparken başınızı yukarıda tutun.",
+      "Başlangıç pozisyonuna dönün ve hareketi hemen tekrarlayın, 10-20 tekrar boyunca devam edin."
+    ],
+    "category": "stretching",
+    "images": [
+      "Groiners/0.jpg",
+      "Groiners/1.jpg"
+    ],
+    "id": "Groiners"
+  },
+  {
+    "name": "Handstand Push-Ups",
+    "force": "push",
+    "level": "expert",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "triceps"
+    ],
+    "instructions": [
+      "Duvara sırtınızı dönerek belinizden bükülün ve ellerinizi omuz genişliğinde yerden koyun.",
+      "Kollarınızı düz tutarak kendinizi duvara doğru itin. Vücudunuz baş aşağı olmalı, kol ve bacaklarınız tamamen düz olmalıdır. Mümkün olduğunca vücudunuzu düz tutun. İpucu: İlk kez yapıyorsanız, bir yardımcıya ihtiyaç duyabilirsiniz. Ayrıca, başınızı aşağıya değil, duvara doğru tuttuğunuzdan emin olun.",
+      "Nefes alırken yavaşça kendinizi yere indirin, başınız neredeyse yere dokunana kadar. İpucu: Baş yaralanmalarını önlemek için yavaş indirmek son derece önemlidir.",
+      "Nefes verirken dirsekleriniz neredeyse kilitlenene kadar yavaşça kendinizi yukarı itin.",
+      "Tavsiye edilen tekrar sayısı kadar tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Handstand_Push-Ups/0.jpg",
+      "Handstand_Push-Ups/1.jpg"
+    ],
+    "id": "Handstand_Push-Ups"
+  },
+  {
+    "name": "Hanging Leg Raise",
+    "force": "pull",
+    "level": "expert",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Çene çekme çubuğundan, elleriniz omuz genişliğinde veya orta genişlikte bir kavrama ile uzanmış bir şekilde asın. Bacaklarınız düz bir şekilde aşağıya doğru sarkmalı ve pelvis hafifçe geriye doğru yuvarlanmış olmalıdır. Bu başlangıç pozisyonunuz olacaktır.",
+      "Bacaklarınızı kaldırın, gövde bacaklarla 90 derecelik bir açı yapana kadar. Bu hareketi yaparken nefes verin ve kasılma pozisyonunu bir saniye kadar tutun.",
+      "Nefes alırken yavaşça başlangıç pozisyonuna geri dönün.",
+      "Tavsiye edilen tekrar sayısı kadar tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Hanging_Leg_Raise/0.jpg",
+      "Hanging_Leg_Raise/1.jpg"
+    ],
+    "id": "Hanging_Leg_Raise"
+  },
+  {
+    "name": "Hanging Pike",
+    "force": "pull",
+    "level": "expert",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Omuz genişliğinden biraz daha geniş bir el üstü tutuş kullanarak (avuç içleri sizden uzağa bakacak şekilde) bacaklarınız ve ayaklarınız bir arada olacak şekilde bir chin-up barından sarkın. İpucu: Bara tutunmayı kolaylaştırmak için bilek sargısı kullanabilirsiniz.",
+      "Şimdi dizlerinizi 90 derecelik bir açıyla bükün ve uyluklarınız yere paralel kalırken baldırlarınız yere dik olacak şekilde üst bacaklarınızı öne doğru getirin. Bu sizin başlangıç pozisyonunuz olacak.",
+      "Nefes verirken bacaklarınızı, üstünüzdeki bar neredeyse kaval kemiklerinize değene kadar yukarı çekin. İpucu: En üstteyken bacaklarınızı mümkün olduğunca düzleştirmeye çalışın.",
+      "Başlangıç pozisyonuna ulaşana kadar bacaklarınızı mümkün olduğunca yavaş indirin. İpucu: Her zaman sallanmaktan ve momentum kullanmaktan kaçının.",
+      "Önerilen tekrar sayısı kadar tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Hanging_Pike/0.jpg",
+      "Hanging_Pike/1.jpg"
+    ],
+    "id": "Hanging_Pike"
+  },
+  {
+    "name": "Hip Circles (prone)",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abductors"
+    ],
+    "secondaryMuscles": [
+      "adductors"
+    ],
+    "instructions": [
+      "Yerde elleriniz ve dizleriniz üzerinde pozisyon alın. Doğru postürü koruyarak, bir dizinizi yerden kaldırın ve bükük tutun. Bu başlangıç pozisyonunuz olacaktır.",
+      "Dizinizi bükük tutarken femurunuzu bir yay içinde döndürün, dizinizle büyük bir daire oluşturmaya çalışın.",
+      "Bu hareketi yavaşça birkaç tekrar boyunca yapın ve diğer tarafı tekrarlayın."
+    ],
+    "category": "stretching",
+    "images": [
+      "Hip_Circles_prone/0.jpg",
+      "Hip_Circles_prone/1.jpg"
+    ],
+    "id": "Hip_Circles_prone"
+  },
+  {
+    "name": "Hyperextensions With No Hyperextension Bench",
+    "force": "pull",
+    "level": "intermediate",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "lower back"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Bacaklarınızı biri tarafından sabitlenmiş bir şekilde, düz bir benchin kenarına doğru kayarak oturun. Kalçalarınız benchin kenarından sarkmalıdır. İpucu: Tüm üst vücudunuz zemine doğru sarkmalıdır. Ayrıca, hyperextension bench üzerinde olurken olduğunuz gibi olacaksınız, ancak düz benchin yüksekliği nedeniyle hareket aralığınız daha kısa olacaktır.",
+      "Vücudunuz düz bir şekilde, önünüzde (tercihim) veya başınızın arkasında kollarınızı çaprazlayın. Bu başlangıç pozisyonunuz olacaktır. İpucu: Çapraz kollarınızın altında önünüzde bir ağırlık plakası da tutabilirsiniz ek direnç için.",
+      "Belinizden yavaşça öne doğru eğilmeye başlayın, sırtınızı düz tutarak. Bu hareketi yaparken nefes alın. İleriye doğru hareket etmeye devam edin, neredeyse zemine dokunacak kadar veya hamstringlerde hoş bir gerilim hissedene kadar. İpucu: Bu egzersizi yaparken asla sırtınızı yuvarlamayın.",
+      "Nefes verirken gövdenizi yavaşça başlangıç pozisyonuna kaldırın. İpucu: Sırtınızı düz bir çizginin ötesine yayma tehlikesinden kaçının. Ayrıca, sırtınızı herhangi bir zamanda sallamaktan kaçının, böylece sırtınızı sakatlanmaktan koruyun.",
+      "Tavsiye edilen tekrar sayısı kadar tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Hyperextensions_With_No_Hyperextension_Bench/0.jpg",
+      "Hyperextensions_With_No_Hyperextension_Bench/1.jpg"
+    ],
+    "id": "Hyperextensions_With_No_Hyperextension_Bench"
+  },
+  {
+    "name": "Inchworm",
+    "force": null,
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "hamstrings"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Ayaklarınızı birbirine yakın bir şekilde ayakta durun. Bacaklarınızı düz tutarak, aşağıya doğru uzanın ve ellerinizi doğrudan önünüzde zemine koyun. Bu başlangıç pozisyonunuz olacaktır.",
+      "Ellerinizi yavaşça ileri doğru yürüterek başlayın, sırasıyla sol ve sağ elinizi kullanarak. Bunu yaparken sadece kalçadan bükülerek, bacaklarınızı düz tutun.",
+      "Vücudunuz yere paralel olana kadar devam edin, bir push-up pozisyonunda.",
+      "Şimdi ellerinizi yerinde tutun ve ayaklarınızla yavaşça kısa adımlar atarak devam edin, sadece birkaç inç birden hareket edin.",
+      "Bacaklarınızı düz tutarak ellerinizin yanına kadar yürümeye devam edin."
+    ],
+    "category": "stretching",
+    "images": [
+      "Inchworm/0.jpg",
+      "Inchworm/1.jpg"
+    ],
+    "id": "Inchworm"
+  },
+  {
+    "name": "Incline Push-Up",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Bir bench veya sağlam yükseltilmiş bir platforma karşı durun. Ellerinizi bench veya platformun kenarına, omuz genişliğinizden biraz daha geniş bir şekilde yerleştirin.",
+      "Ayak parmaklarınızı bench veya platformdan geriye doğru yerleştirin, kollarınız ve vücudunuz düz olsun. Kollar vücuda dik olmalıdır. Vücudu düz tutarak, kolları bükerek göğsü bench veya platformun kenarına doğru indirin.",
+      "Kolları uzatarak vücudu yukarı itin. Tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Incline_Push-Up/0.jpg",
+      "Incline_Push-Up/1.jpg"
+    ],
+    "id": "Incline_Push-Up"
+  },
+  {
+    "name": "Incline Push-Up Close-Grip",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "shoulders"
+    ],
+    "instructions": [
+      "Uygun bir yükseklikte bir Smith makine çubuğu veya sağlam bir yükseltilmiş platforma karşı durun.",
+      "Ellerinizi çubuğun yanında birbirine yakın bir şekilde yerleştirin.",
+      "Ayaklarınızı çubuktan geriye doğru yerleştirin, kollarınız ve vücudunuz düz olsun. Bu başlangıç pozisyonunuz olacaktır.",
+      "Vücudu düz tutarak, kolları bükerek göğsü çubuğa doğru indirin.",
+      "Dirsekleri uzatarak başlangıç pozisyonuna dönün, kendinizi yukarı iterek tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Incline_Push-Up_Close-Grip/0.jpg",
+      "Incline_Push-Up_Close-Grip/1.jpg"
+    ],
+    "id": "Incline_Push-Up_Close-Grip"
+  },
+  {
+    "name": "Incline Push-Up Medium",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "abdominals",
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Uygun bir yükseklikte bir Smith makine çubuğu veya sağlam bir yükseltilmiş platforma karşı durun.",
+      "Ellerinizi çubuğa omuz genişliğiniz kadar açık bir şekilde yerleştirin.",
+      "Ayaklarınızı çubuktan geriye doğru yerleştirin, kollarınız ve vücudunuz düz olsun. Bu başlangıç pozisyonunuz olacaktır.",
+      "Vücudu düz tutarak, kolları bükerek göğsü çubuğa doğru indirin.",
+      "Dirsekleri uzatarak başlangıç pozisyonuna dönün, kendinizi yukarı iterek tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Incline_Push-Up_Medium/0.jpg",
+      "Incline_Push-Up_Medium/1.jpg"
+    ],
+    "id": "Incline_Push-Up_Medium"
+  },
+  {
+    "name": "Incline Push-Up Reverse Grip",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "abdominals",
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Uygun bir yükseklikte bir Smith makine çubuğu veya sağlam bir yükseltilmiş platforma karşı durun.",
+      "Ellerinizi çubuğun üzerine avuç içleri yukarı bakacak şekilde, omuz genişliğiniz kadar açık bir şekilde yerleştirin.",
+      "Ayaklarınızı çubuktan geriye doğru yerleştirin, kollarınız ve vücudunuz düz olsun. Bu başlangıç pozisyonunuz olacaktır.",
+      "Vücudu düz tutarak, kolları bükerek göğsü çubuğa doğru indirin.",
+      "Dirsekleri uzatarak başlangıç pozisyonuna dönün, kendinizi yukarı iterek tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Incline_Push-Up_Reverse_Grip/0.jpg",
+      "Incline_Push-Up_Reverse_Grip/1.jpg"
+    ],
+    "id": "Incline_Push-Up_Reverse_Grip"
+  },
+  {
+    "name": "Incline Push-Up Wide",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "abdominals",
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Uygun bir yükseklikte bir Smith makine çubuğu veya sağlam bir yükseltilmiş platforma karşı durun.",
+      "Ellerinizi çubuğa omuz genişliğinizden daha geniş bir şekilde yerleştirin.",
+      "Ayaklarınızı çubuktan geriye doğru yerleştirin, kollarınız ve vücudunuz düz olsun. Kollarınız vücuda dik olmalıdır. Bu başlangıç pozisyonunuz olacaktır.",
+      "Vücudu düz tutarak, kolları bükerek göğsü çubuğa doğru indirin.",
+      "Dirsekleri uzatarak başlangıç pozisyonuna dönün, kendinizi yukarı iterek tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Incline_Push-Up_Wide/0.jpg",
+      "Incline_Push-Up_Wide/1.jpg"
+    ],
+    "id": "Incline_Push-Up_Wide"
+  },
+  {
+    "name": "Isometric Chest Squeezes",
+    "force": "static",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Otururken veya ayakta dururken, kollarınızı 90 derecelik bir açıyla bükün ve avuç içlerinizi göğsünüzün önünde birleştirin. İpucu: Elleriniz açık olmalı, avuç içleri birbirine dokunmalı ve parmaklarınız gövdenize dik olmalıdır.",
+      "Göğsünüzü kasarken ellerinizi birbirine doğru itin. Yavaş gerilimle başlayın ve yavaşça artırın. Bu kasılmayı yaparken normal şekilde nefes almaya devam edin.",
+      "Önerilen süre kadar tutun.",
+      "Şimdi gerilimi yavaşça bırakın.",
+      "Önerilen dinlenme süresi boyunca dinlenin ve tekrarlayın."
+    ],
+    "category": "plyometrics",
+    "images": [
+      "Isometric_Chest_Squeezes/0.jpg",
+      "Isometric_Chest_Squeezes/1.jpg"
+    ],
+    "id": "Isometric_Chest_Squeezes"
+  },
+  {
+    "name": "Isometric Neck Exercise - Front And Back",
+    "force": "static",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "neck"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Baş ve boyun normal bir pozisyonda (baş düz ve öne bakar durumda), ellerinizi başınızın ön tarafına koyun.",
+      "Başınızı öne doğru hafifçe iterek boyun kaslarınızı kasın ancak başınızı hareket ettirmeden direnin. Yavaş gerilimle başlayın ve yavaşça artırın. Bu kasılmayı yaparken normal şekilde nefes almaya devam edin.",
+      "Önerilen süre kadar tutun.",
+      "Şimdi gerilimi yavaşça bırakın.",
+      "Önerilen dinlenme süresi boyunca dinlenin ve ellerinizi başınızın arka tarafına koyarak tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Isometric_Neck_Exercise_-_Front_And_Back/0.jpg",
+      "Isometric_Neck_Exercise_-_Front_And_Back/1.jpg"
+    ],
+    "id": "Isometric_Neck_Exercise_-_Front_And_Back"
+  },
+  {
+    "name": "Isometric Neck Exercise - Sides",
+    "force": "static",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "neck"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Baş ve boyun normal bir pozisyonda (baş düz ve öne bakar durumda), sol elinizi başınızın sol tarafına koyun.",
+      "Başınızı sol tarafa doğru hafifçe iterek sol boyun kaslarınızı kasın ancak başınızı hareket ettirmeden direnin. Yavaş gerilimle başlayın ve yavaşça artırın. Bu kasılmayı yaparken normal şekilde nefes almaya devam edin.",
+      "Önerilen süre kadar tutun.",
+      "Şimdi gerilimi yavaşça bırakın.",
+      "Önerilen dinlenme süresi boyunca dinlenin ve sağ elinizi başınızın sağ tarafına koyarak tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Isometric_Neck_Exercise_-_Sides/0.jpg",
+      "Isometric_Neck_Exercise_-_Sides/1.jpg"
+    ],
+    "id": "Isometric_Neck_Exercise_-_Sides"
+  },
+  {
+    "name": "Isometric Wipers",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "abdominals",
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Lie flat on your back with your legs extended straight and your arms extended out to your sides for stability.",
+      "Raise your legs off the ground slightly, keeping them straight.",
+      "Contract your abdominal muscles and lift your legs towards one side, aiming to touch your toes to the ground beside you. Keep your upper body flat on the ground throughout.",
+      "Return to the center and repeat on the opposite side, alternating back and forth in a controlled motion.",
+      "Continue alternating sides for the desired number of repetitions."
+    ],
+    "category": "strength",
+    "images": [
+      "Isometric_Wipers/0.jpg",
+      "Isometric_Wipers/1.jpg"
+    ],
+    "id": "Isometric_Wipers"
+  },
+  {
+    "name": "Jackknife Sit-Up",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Düz bir zeminde (veya egzersiz matı üzerinde) sırtüstü uzanın. Başınız arkada, kollarınız düz olarak başınızın arkasında ve bacaklarınız da uzatılmış bir şekilde olsun. Bu başlangıç pozisyonunuz olacaktır.",
+      "Nefes verirken, belinizden bükülerek aynı anda bacaklarınızı ve kollarınızı kaldırın ve jackknife pozisyonunda buluşun. İpucu: Bacaklarınızı yaklaşık olarak yere 35-45 derecelik bir açıyla kaldırın ve kollarınız bacaklarınıza paralel olarak uzansın. Üst gövde yerden kalkık olmalıdır.",
+      "Nefes alırken, kollarınızı ve bacaklarınızı başlangıç pozisyonuna geri indirin.",
+      "Tavsiye edilen tekrar sayısına kadar tekrar edin."
+    ],
+    "category": "strength",
+    "images": [
+      "Jackknife_Sit-Up/0.jpg",
+      "Jackknife_Sit-Up/1.jpg"
+    ],
+    "id": "Jackknife_Sit-Up"
+  },
+  {
+    "name": "Janda Sit-Up",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Vücudunuzu zeminde temel sit-up pozisyonuna yerleştirin; dizleriniz doksan derece açıyla bükülü, ayaklarınız yerde düz ve elleriniz ya göğsünüzün üzerinde çapraz ya da yanlarda olacak şekilde olsun. Bu başlangıç pozisyonunuz olacaktır.",
+      "Kalçalarınızı sıkıca sıkın ve hamstring kaslarınızı güçlendirerek ciğerlerinizi hava ile doldurun. Yavaş bir şekilde (üç ila altı saniye sayarak), yavaşça nefes verin. İpucu: Kalçaları ve hamstring kaslarını sıkmanız önemlidir çünkü bu, karşı kasların gevşemesine yol açarak hip flexorların inaktive olmasına neden olur, bu süreç rekiprokal inhibisyon adı verilir.",
+      "Nefes alırken, başlangıç pozisyonuna kontrollü bir şekilde geri dönün.",
+      "Tavsiye edilen tekrar sayısına kadar tekrar edin."
+    ],
+    "category": "strength",
+    "images": [
+      "Janda_Sit-Up/0.jpg",
+      "Janda_Sit-Up/1.jpg"
+    ],
+    "id": "Janda_Sit-Up"
+  },
+  {
+    "name": "Knee Circles",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "calves"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "quadriceps"
+    ],
+    "instructions": [
+      "Ayaklarınızı birbirine yakın bir şekilde durun ve ellerinizi belinizde tutun.",
+      "Nefesinizi normal bir şekilde alırken dizlerinizi dairesel bir hareketle döndürün.",
+      "Tavsiye edilen tekrar sayısına kadar tekrarlayın."
+    ],
+    "category": "stretching",
+    "images": [
+      "Knee_Circles/0.jpg",
+      "Knee_Circles/1.jpg"
+    ],
+    "id": "Knee_Circles"
+  },
+  {
+    "name": "Knee Tuck Jump",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "abductors",
+      "adductors",
+      "calves",
+      "glutes",
+      "quadriceps"
+    ],
+    "instructions": [
+      "Dizleriniz hafifçe bükülü bir şekilde rahat bir ayakta durma pozisyonunda başlayın. Ellerinizi önünüzde, avuç içleri aşağıda ve parmak uçları göğüs yüksekliğinde birleştirin. Bu başlangıç pozisyonunuz olacak.",
+      "Hızlı bir şekilde çeyrek squat pozisyonuna doğru eğilin ve hemen patlayarak yukarı doğru sıçrayın. Dizleri göğse doğru sürükleyerek ellerin avuç içlerine dokunmaya çalışın.",
+      "Mümkün olduğunca yükseğe sıçrayın, dizleri yukarı kaldırarak, ardından iyi bir şekilde iniş yapın ve tekrar bacaklarınızı uzatarak darbeyi emin. dizlerin yeniden bükülmesine izin vermek."
+    ],
+    "category": "plyometrics",
+    "images": [
+      "Knee_Tuck_Jump/0.jpg",
+      "Knee_Tuck_Jump/1.jpg"
+    ],
+    "id": "Knee_Tuck_Jump"
+  },
+  {
+    "name": "Lateral Bound",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "adductors"
+    ],
+    "secondaryMuscles": [
+      "abductors",
+      "calves",
+      "glutes",
+      "hamstrings",
+      "quadriceps"
+    ],
+    "instructions": [
+      "90 derece yönünden bakacak şekilde yarım squat pozisyonu alın. Bu başlangıç pozisyonunuz olacak.",
+      "Ağırlığınızı dış taraftaki bacağa kaydırırken öncü bacağınızın içe doğru karşı hareket yapmasına izin verin.",
+      "Hemen iterek ve uzatarak, mümkün olduğunca yan tarafa sıçramayı deneyin.",
+      "İniş yaptıktan hemen sonra, karşı yöne doğru iterek, orijinal başlangıç pozisyonunuza geri dönün.",
+      "Birkaç tekrar boyunca ileri geri devam edin."
+    ],
+    "category": "plyometrics",
+    "images": [
+      "Lateral_Bound/0.jpg",
+      "Lateral_Bound/1.jpg"
+    ],
+    "id": "Lateral_Bound"
+  },
+  {
+    "name": "Leg Lift",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings"
+    ],
+    "instructions": [
+      "Omuz genişliğinde ayaklarınızı yan yana getirip dik durun. Dengeyi sağlamak için squat rack'in yanları veya bir sandalyenin üzeri gibi sağlam bir yüzeye tutunun.",
+      "Bir ayak ağırlığıyla veya olmadan, diğer bacağı düz tutarak arkaya doğru bir bacak kıvırma hareketi yapar gibi bir bacağı yukarı kaldırın. Bu hareketi yaparken nefes verin.",
+      "Kaldırdığınız bacağı yavaşça yerden indirin ve nefes alın.",
+      "Tavsiye edilen tekrar sayısı kadar tekrarlayın.",
+      "Hareketi karşı bacakla tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Leg_Lift/0.jpg",
+      "Leg_Lift/1.jpg"
+    ],
+    "id": "Leg_Lift"
+  },
+  {
+    "name": "Leg Pull-In",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Egzersiz matı üzerine uzanın, bacaklarınızı düz bir şekilde uzatın ve ellerinizi ya yanınızda avuç içleri aşağıda veya gluteus kaslarınızın altına yerleştirin. İpucu: Benim tercihim yanımda ellerle başlamak.",
+      "Nefes verirken dizlerinizi bükün ve üst uyluklarınızı karın bölgenize doğru çekin. Hareketi göğüs seviyenize kadar devam ettirin. Bu hareketi yaparken karın kaslarınızı sıkın ve en üst noktada bir saniye kadar tutun. İpucu: Hareketi yaparken alt bacaklarınız (baldırlar) her zaman yerle paralel kalmalıdır.",
+      "Nefes alırken başlangıç pozisyonuna geri dönün.",
+      "Tavsiye edilen tekrar sayısı kadar tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Leg_Pull-In/0.jpg",
+      "Leg_Pull-In/1.jpg"
+    ],
+    "id": "Leg_Pull-In"
+  },
+  {
+    "name": "Lower Back Curl",
+    "force": "static",
+    "level": "beginner",
+    "mechanic": null,
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Karnınızın üstüne uzanın ve kollarınızı yanlara doğru açın. Bu başlangıç ​​pozisyonunuz olacaktır.",
+      "Alt sırt kaslarınızı kullanarak omurganızı uzatın ve göğsünüzü yere kaldırın. Kendinizi yukarı itmekte kollarınızı kullanmayın. Hareket sırasında başınızı yukarıda tutun. 10-20 tekrar için tekrarlayın."
+    ],
+    "category": "stretching",
+    "images": [
+      "Lower_Back_Curl/0.jpg",
+      "Lower_Back_Curl/1.jpg"
+    ],
+    "id": "Lower_Back_Curl"
+  },
+  {
+    "name": "Lying Crossover",
+    "force": "static",
+    "level": "expert",
+    "mechanic": null,
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abductors"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sırtüstü uzanın ve bacaklarınızı uzatın.",
+      "Bir bacağınızı vücudunuzun üzerine çaprazlayın, dizinizi bükerek yere dokunmaya çalışın. Partneriniz yanınızda dizinizi bir eliyle yere bastırarak kontrol ederken, diğer eliyle omzunuzu tutmalıdır. Bu başlangıç pozisyonunuz olacaktır.",
+      "Eğilmiş dizinizi yerden kaldırmaya çalışın, partneriniz gerçek bir hareketi önler.",
+      "10-20 saniye sonra bacağı gevşetin ve partneriniz dizinizi nazikçe yere doğru bastırsın. Diğer taraf için tekrarlayın."
+    ],
+    "category": "stretching",
+    "images": [
+      "Lying_Crossover/0.jpg",
+      "Lying_Crossover/1.jpg"
+    ],
+    "id": "Lying_Crossover"
+  },
+  {
+    "name": "Lying Glute",
+    "force": "static",
+    "level": "expert",
+    "mechanic": null,
+    "equipment": "body only",
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "abductors"
+    ],
+    "instructions": [
+      "Sırtüstü uzanın ve yanınızda diz çökmüş olan partnerinizin yanında durun.",
+      "Bir bacağınızın kalçasını fleks ederek yerden kaldırın. Bacak, ayak karşı kalçanızın üzerindeyken, alt bacak vücudunuza dik olacak şekilde döndürülmelidir. Partneriniz diz ve ayak bileğinizi yerinde tutmalıdır. Bu başlangıç pozisyonunuz olacaktır.",
+      "Bacağınızı partnerinize doğru itmeye çalışın, ancak partneriniz gerçek bir hareketi önlemelidir.",
+      "10-20 saniye sonra bacağı tamamen gevşetin ve partneriniz nazikçe ayak bileği ve dizini göğsünüze doğru ittirsin. Aşırı gerilme veya sakatlanmayı önlemek için gerilimin yeterli olduğunu partnerinize bildirin."
+    ],
+    "category": "stretching",
+    "images": [
+      "Lying_Glute/0.jpg",
+      "Lying_Glute/1.jpg"
+    ],
+    "id": "Lying_Glute"
+  },
+  {
+    "name": "Lying Prone Quadriceps",
+    "force": null,
+    "level": "expert",
+    "mechanic": null,
+    "equipment": "body only",
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Partneriniz yanınızda diz çökmüş haldeyken yüz üstü yere uzanın. Bir dizinizi bükün ve ayağınızla kalça kaslarınıza dokunmaya çalışarak bacağınızı yerden kaldırın. Partneriniz dizinizi ve ayak bileğinizi tutmalıdır. Bu sizin başlangıç pozisyonunuz olacaktır.",
+      "Partneriniz herhangi bir gerçek hareketi engellerken dizinizi uzatmaya çalışın.",
+      "10-20 saniye sonra, partneriniz ayağınızı kalça kaslarınıza doğru hafifçe iterken kaslarınızı gevşetin, kuadriseps ve kalça fleksörlerini daha da gerin.",
+      "10-20 saniye sonra taraf değiştirin."
+    ],
+    "category": "stretching",
+    "images": [
+      "Lying_Prone_Quadriceps/0.jpg",
+      "Lying_Prone_Quadriceps/1.jpg"
+    ],
+    "id": "Lying_Prone_Quadriceps"
+  },
+  {
+    "name": "Natural Glute Ham Raise",
+    "force": "pull",
+    "level": "intermediate",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "lower back"
+    ],
+    "instructions": [
+      "Lat pulldown makinesinin bacak pedini veya preacher bench'i kullanarak, ayak bilekleriniz pedlerin altında, dizleriniz ise koltuk üzerinde olacak şekilde pozisyon alın ve makinenin karşısına dönün. Dik durun ve iyi bir postürü koruyun.",
+      "Bu başlangıç pozisyonunuz olacaktır. Kontrol altında kendinizi indirin ve dizleriniz neredeyse tamamen düz hale gelene kadar.",
+      "Kontrolü elden bırakmadan kendinizi başlangıç pozisyonuna geri kaldırın.",
+      "Bir tekrarı tamamlayamıyorsanız, bir bant, bir partner veya bir kutudan itme yaparak yardımcı olabilirsiniz."
+    ],
+    "category": "strength",
+    "images": [
+      "Natural_Glute_Ham_Raise/0.jpg",
+      "Natural_Glute_Ham_Raise/1.jpg"
+    ],
+    "id": "Natural_Glute_Ham_Raise"
+  },
+  {
+    "name": "Oblique Crunches",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Düz bir şekilde sırtüstü yere uzanın ve alt sırtınızın yere bastığından emin olun. Bu egzersiz için bir elinizi başınızın yanına diğerini ise yere karşı yanınıza koymanız gerekecek.",
+      "Ayaklarınızın yükseltilmiş ve düz bir yüzeyde dinlendiğinden emin olun.",
+      "Şimdi, başınıza dokundurduğunuz el tarafındaki omzunuzu kaldırın.",
+      "Basitçe, omzunuzu ve vücudunuzu yukarı doğru kaldırın ve dizinize dokunana kadar yükseltin. Örneğin, eğer sağ eliniz başınızın yanındaysa, vücudunuzu sağ dirseğinizin sol dizinize dokunacağı şekilde yukarı kaldırın. Bu varyasyonu tersini yaparak da uygulayabilirsiniz, sol dirseğinizle sağ dizinize dokunarak.",
+      "Diziniz dirseğinize dokunduktan sonra, vücudunuzu başlangıç pozisyonuna kadar indirin.",
+      "Egzersizin eksantrik (indirme) kısmında nefes almayı ve konsantrik (yukarı doğru) kısmında nefes vermenizi unutmayın.",
+      "Her iki taraf için önerilen tekrarlar tamamlanana kadar bu şekilde sırayla devam edin."
+    ],
+    "category": "strength",
+    "images": [
+      "Oblique_Crunches/0.jpg",
+      "Oblique_Crunches/1.jpg"
+    ],
+    "id": "Oblique_Crunches"
+  },
+  {
+    "name": "Oblique Crunches - On The Floor",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sağ tarafınızda yan yatın ve bacaklarınızın üst üste olduğundan emin olun. Dizlerinizi biraz bükük tutun.",
+      "Sol elinizi başınızın arkasına koyun.",
+      "Bu set pozisyonunda sol dirseğinizi normal bir crunch yapar gibi yukarı doğru hareket ettirerek başlayın, ancak bu sefer ana vurgu oblik kaslarınız üzerinde olmalıdır.",
+      "Mümkün olduğunca yüksek bir şekilde crunch yapın, kası germede bir saniye kadar bekleyin ve ardından yavaşça başlangıç pozisyonuna geri düşün.",
+      "Egzersizin eksantrik (indirme) kısmında nefes almayı ve konsantrik (yükselme) kısmında nefes vermenizi unutmayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Oblique_Crunches_-_On_The_Floor/0.jpg",
+      "Oblique_Crunches_-_On_The_Floor/1.jpg"
+    ],
+    "id": "Oblique_Crunches_-_On_The_Floor"
+  },
+  {
+    "name": "Overhead Triceps",
+    "force": "static",
+    "level": "expert",
+    "mechanic": null,
+    "equipment": "body only",
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "lats"
+    ],
+    "instructions": [
+      "Arkadaşınız sırtınıza otururken dik bir şekilde oturun. Bir kolunuzu düz bir şekilde yukarı kaldırın ve dirseği bükerek elinizi sırtınıza dokundurmaya çalışın. Arkadaşınız dirseğinizi ve bileğinizi tutmalıdır. Bu egzersizin başlangıç pozisyonudur.",
+      "Arkadaşınız gerçekten yapmanızı engelleyerek kolunuzu düz bir şekilde havaya doğru uzatmaya çalışın.",
+      "10-20 saniye boyunca kolunuzu rahatlatın ve arkadaşınızın bileğe hafif baskı uygulayarak trisepsinizi daha da germesine izin verin. 10-20 saniye boyunca bekleyin, sonra taraf değiştirin."
+    ],
+    "category": "stretching",
+    "images": [
+      "Overhead_Triceps/0.jpg",
+      "Overhead_Triceps/1.jpg"
+    ],
+    "id": "Overhead_Triceps"
+  },
+  {
+    "name": "Plank",
+    "force": "static",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Yere yüz üstü pozisyonda gelin, ağırlığınızı parmak uçları ve ön kollarınız üzerinde destekleyin. Kollarınız dirseğinizin altında ve doğrudan omuz hizasında olmalıdır.",
+      "Vücudunuzu her zaman düz tutun ve bu pozisyonu mümkün olduğunca uzun süre koruyun. Zorluğu artırmak için bir kol veya bacak kaldırılabilir."
+    ],
+    "category": "strength",
+    "images": [
+      "Plank/0.jpg",
+      "Plank/1.jpg"
+    ],
+    "id": "Plank"
+  },
+  {
+    "name": "Plyo Push-up",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+   "instructions": [
+    "Yere yüz üstü pozisyonda gelin, ağırlığınızı elleriniz ve parmak uçlarınız üzerinde destekleyin.",
+    "Kollarınız tamamen uzatılmış olmalı, eller omuz genişliğinde yerleştirilmelidir. Vücudunuzu hareket boyunca düz tutun. Bu başlangıç pozisyonunuz olacaktır.",
+    "Dirseklerinizi bükerek göğsünüzü yere doğru indirin.",
+    "En alt noktada, hızlı bir şekilde dirseklerinizi uzatarak kendinizi yukarı itin. Elleriniz yerden kalkana kadar üst vücudunuzu yukarı itmeye çalışın.",
+    "Başlangıç pozisyonuna geri dönün ve egzersizi tekrarlayın.",
+    "Zorluk eklemek için, hareket sırasında havada el çırpabilirsiniz."
+  ],
+    "category": "plyometrics",
+    "images": [
+      "Plyo_Push-up/0.jpg",
+      "Plyo_Push-up/1.jpg"
+    ],
+    "id": "Plyo_Push-up"
+  },
+  {
+    "name": "Pullups",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "middle back"
+    ],
+    "instructions": [
+      "Çekme barına avuç içleri öne bakacak şekilde tutun, belirtilen kavrama göre. Kavrama hakkında not: Geniş bir kavramada elleriniz omuz genişliğinizden daha geniş bir mesafede olmalıdır. Orta bir kavramada elleriniz omuz genişliğiniz kadar aralıklı olmalıdır ve dar bir kavramada omuz genişliğinizden daha küçük bir mesafede olmalıdır.",
+      "Seçilen kavrama genişliğinde barı tutarak her iki kolunuzu da öne doğru uzatın, belinizde bir eğrilik oluşturun ve göğsünüzü dışarı doğru itin. Bu başlangıç pozisyonunuzdur.",
+      "Omuzları ve üst kolları geriye doğru çekerek gövdenizi bar üstü göğsünüze değene kadar yukarı çekin. Bu hareketin bu kısmını yaparken nefes verin. İpucu: Tam kontrakte pozisyona ulaştığınızda sırt kaslarını sıkmanıza odaklanın. Üst gövde hareket ederken sabit kalmalı ve sadece kollar hareket etmelidir. Önkolların, barı tutmaktan başka bir iş yapmaması gerekmektedir.",
+      "Kontrakte pozisyonda bir saniye bekledikten sonra nefes almaya başlayın ve kollarınız tamamen uzanmış ve büzülmüş olduğunda gövdenizi başlangıç pozisyonuna yavaşça indirin.",
+      "Bu hareketi belirlenen tekrar sayısı kadar tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Pullups/0.jpg",
+      "Pullups/1.jpg"
+    ],
+    "id": "Pullups"
+  },
+  {
+    "name": "Push-Up Wide",
+    "force": null,
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "abdominals",
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Ellerinizi omuz genişliğinizden daha geniş bir mesafede yerleştirerek, plank pozisyonunda vücudunuzu ayak parmakları ve elleriniz üzerinde destekleyin. Dirsekleriniz uzatılmış ve vücudunuz düz olmalıdır. Kalçalarınızın sarkmasına izin vermeyin. Bu başlangıç pozisyonunuzdur.",
+      "Başlamak için dirseklerinizi bükerek göğsünüzü yere doğru indirin ve bu esnada nefes alın.",
+      "Göğüs kaslarınızı kullanarak, üst vücudunuzu dirsekleri uzatarak başlangıç pozisyonuna geri itin. Bu adımı yaparken nefes verin.",
+      "Kontrakte pozisyonda bir an bekledikten sonra, hareketi belirlenen tekrar sayısı kadar tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Push-Up_Wide/0.jpg",
+      "Push-Up_Wide/1.jpg"
+    ],
+    "id": "Push-Up_Wide"
+  },
+  {
+    "name": "Push-Ups - Close Triceps Position",
+    "force": "push",
+    "level": "intermediate",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "shoulders"
+    ],
+    "instructions": [
+      "Yüz üstü uzanarak yerde uzanın ve dar el pozisyonu için omuz genişliğinden daha yakın ellerle yerleştirin. Vücudunuzu kol uzunluğunda tuttuğunuzdan emin olun.",
+      "Göğsünüz neredeyse yere dokunana kadar kendinizi indirin ve bu sırada nefes alın.",
+      "Triceps kaslarınızı ve bazı göğüs kaslarınızı kullanarak, üst vücudunuzu başlangıç pozisyonuna geri itin ve göğsünüzü sıkın. Bu adımı yaparken nefes verin.",
+      "Kontrakte pozisyonda bir saniye bekledikten sonra, hareketi belirlenen tekrar sayısı kadar tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Push-Ups_-_Close_Triceps_Position/0.jpg",
+      "Push-Ups_-_Close_Triceps_Position/1.jpg"
+    ],
+    "id": "Push-Ups_-_Close_Triceps_Position"
+  },
+  {
+    "name": "Push-Ups With Feet Elevated",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Yüz üstü uzanarak yerde uzanın ve ellerinizi birbirinden yaklaşık 36 inç uzaklıkta omuz genişliğinden daha fazla tutarak vücudunuzu kol uzunluğunda tutun.",
+      "Ayak parmaklarınızı düz bir benchin üstüne yerleştirin. Bu, vücudunuzun yüksekte olmasını sağlar. Not: Düz benchin yüksekliği ne kadar yüksekse, egzersizin direnci o kadar yüksek olur.",
+      "Göğsünüz neredeyse yere dokunana kadar kendinizi indirin ve bu sırada nefes alın.",
+      "Göğüs kaslarınızı kullanarak, üst vücudunuzu başlangıç pozisyonuna geri itin ve göğsünüzü sıkın. Bu adımı yaparken nefes verin.",
+      "Kontrakte pozisyonda bir saniye bekledikten sonra, hareketi belirlenen tekrar sayısı kadar tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Push-Ups_With_Feet_Elevated/0.jpg",
+      "Push-Ups_With_Feet_Elevated/1.jpg"
+    ],
+    "id": "Push-Ups_With_Feet_Elevated"
+  },
+  {
+    "name": "Push Up to Side Plank",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "abdominals",
+      "shoulders",
+      "triceps"
+    ],
+  "instructions": [
+    "Ellerinizi omuz genişliğinin hemen dışında olacak şekilde ayak parmakları üzerinde push-up pozisyonuna geçin.",
+    "Dirseklerinizi bükerek bir push-up yapın. İnış yaparken vücudunuzu düz tutun.",
+    "Bir push-up yapın ve yukarı doğru çıkarken vücut ağırlığınızı sol tarafa kaydırın, sağ kolunuzu yan plank pozisyonunda tavana doğru kaldırarak yan tarafa dönün.",
+    "Kolu tekrar yere indirin ve başka bir push-up için yan tarafa dönün.",
+    "Her iki tarafı da değiştirerek seri olarak tekrarlayın, 10 veya daha fazla tekrar yapın."
+  ],
+    "category": "strength",
+    "images": [
+      "Push_Up_to_Side_Plank/0.jpg",
+      "Push_Up_to_Side_Plank/1.jpg"
+    ],
+    "id": "Push_Up_to_Side_Plank"
+  },
+  {
+    "name": "Pushups",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Yere yüz üstü uzanın ve ellerinizi omuz genişliğinden yaklaşık 36 inç uzaklıkta olacak şekilde vücudunuzu kollarınızın uzunluğunda tutarak destekleyin.",
+      "Sonra nefes alırken göğsünüz neredeyse yere dokunacak şekilde kendinizi aşağı doğru indirin.",
+      "Şimdi nefes verin ve göğsünüzü sıkıştırarak üst vücudunuzu başlangıç pozisyonuna geri itin.",
+      "Üst noktada kısa bir duraklamanın ardından tekrar aşağı inmeye başlayabilirsiniz, gerekli tekrarları yapın."
+    ],
+    "category": "strength",
+    "images": [
+      "Pushups/0.jpg",
+      "Pushups/1.jpg"
+    ],
+    "id": "Pushups"
+  },
+  {
+    "name": "Pushups (Close and Wide Hand Positions)",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Yere yüz üstü uzanın ve vücudunuzu düz tutun. Ayak parmaklarınız yere basmalıdır. Eller omuz genişliğinden daha geniş bir pozisyon için omuz genişliğinden daha yakın bir pozisyon için ise daha yakın olmalıdır. Vücudunuzu kollarınızın uzunluğunda tuttuğunuzdan emin olun.",
+      "Nefes alırken göğsünüz neredeyse yere dokunacak şekilde kendinizi aşağı doğru indirin.",
+      "Göğüs kaslarınızı kullanarak üst vücudunuzu başlangıç pozisyonuna geri itin ve göğsünüzü sıkın. Bu adımı gerçekleştirirken nefes verin.",
+      "Üst noktada kısa bir duraklamanın ardından tekrar hareketi yapın. Belirtilen tekrar sayısını yapana kadar devam edin."
+    ],
+    "category": "strength",
+    "images": [
+      "Pushups_Close_and_Wide_Hand_Positions/0.jpg",
+      "Pushups_Close_and_Wide_Hand_Positions/1.jpg"
+    ],
+    "id": "Pushups_Close_and_Wide_Hand_Positions"
+  },
+  {
+    "name": "Rear Leg Raises",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": null,
+    "equipment": "body only",
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [],
+   "instructions": [
+    "Bir egzersiz matı üzerinde elleriniz ve dizleriniz üzerine yerleşin. Başınız ileriye bakmalı ve dizlerinizin kıvrımı, arka uyluk kasları ile baldırlar arasında 90 derecelik bir açı oluşturmalıdır. Bu başlangıç pozisyonunuz olacaktır.",
+    "Bir bacağınızı geriye doğru ve yukarıya doğru uzatın. Hem diz hem de kalça uzamalıdır. 5-10 tekrar yapın ve sonra taraf değiştirin."
+  ],
+    "category": "stretching",
+    "images": [
+      "Rear_Leg_Raises/0.jpg",
+      "Rear_Leg_Raises/1.jpg"
+    ],
+    "id": "Rear_Leg_Raises"
+  },
+  {
+    "name": "Reverse Crunch",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Bacaklarınızı tamamen açarak yere uzanın ve kollarınızı avuç içleriniz yerde olacak şekilde gövdenizin yanına koyun. Kollarınız tüm egzersiz boyunca sabit durmalıdır.",
+      "Bacaklarınızı, uyluklarınız yere dik olacak ve ayaklarınız bir arada ve yere paralel olacak şekilde yukarı kaldırın. Bu başlangıç pozisyonudur.",
+      "Nefes alırken, pelvisinizi geriye doğru yuvarlarken bacaklarınızı gövdenize doğru hareket ettirin ve kalçalarınızı yerden kaldırın. Bu hareketin sonunda dizleriniz göğsünüze değiyor olacak.",
+      "Kasılmayı bir saniye tutun ve nefes verirken bacaklarınızı başlangıç pozisyonuna geri getirin.",
+      "Önerilen tekrar sayısı kadar tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Reverse_Crunch/0.jpg",
+      "Reverse_Crunch/1.jpg"
+    ],
+    "id": "Reverse_Crunch"
+  },
+  {
+    "name": "Rocket Jump",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Ayaklarınızı omuz genişliğinde açık bir duruşta başlatın ve kollarınızı vücuda yakın tutun.",
+      "Hareketi başlatmak için yarıya kadar çömelin ve mümkün olduğunca yükseğe patlayıcı bir şekilde geri zıplayın.",
+      "Tüm vücudunuzu tamamen uzatın ve ellerinizi mümkün olduğunca yükseğe uzatın. İndiğinizde, vücudunuza darbeyi bacaklarınızla emin.",
+      "Yüksekliği ayarlamak ve tekrarlamak için tekrar edin."
+    ],
+    "category": "plyometrics",
+    "images": [
+      "Rocket_Jump/0.jpg",
+      "Rocket_Jump/1.jpg"
+    ],
+    "id": "Rocket_Jump"
+  },
+  {
+    "name": "Russian Twist",
+    "force": "pull",
+    "level": "intermediate",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [
+      "lower back"
+    ],
+    "instructions": [
+      "Yere uzanın ve ayaklarınızı hareket etmeyecek bir şeyin altına veya bir ortağınızın onları tutmasını sağlayın. Bacaklarınız dizlerde bükülmelidir.",
+      "Üst vücudunuzu yukarı kaldırın, uyluklarınızla hayali bir V şekli oluşturun. Kollarınız vücudunuza dik olarak tam uzatılmış durumda ve elleriniz birleştirilmiş olmalıdır. Bu başlangıç pozisyonudur.",
+      "Soluk verirken, gövdenizi sağ tarafa doğru döndürün ve kollarınızı zeminle paralel hale gelene kadar devam edin.",
+      "Kasılma pozisyonunu bir saniye bekletin ve soluk verirken başlangıç pozisyonuna geri dönün. Şimdi aynı teknikleri sağ tarafa uygulayarak diğer tarafa geçin.",
+      "Önerilen tekrar sayısı kadar tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Russian_Twist/0.jpg",
+      "Russian_Twist/1.jpg"
+    ],
+    "id": "Russian_Twist"
+  },
+  {
+    "name": "Scissor Kick",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Başlamak için, sırtınızı zemine veya isteğe bağlı olarak bir egzersiz matına bastırın. Kollarınız tam uzatılmış olarak yanlara doğru, avuç içleri aşağıya bakacak şekilde olmalıdır. Not: Kollar hareket boyunca sabit durmalıdır.",
+      "Hafifçe dizlerde bükülü bir pozisyonda, topuklarınız yaklaşık olarak 15 cm yükseklikte zeminde olacak şekilde bacaklarınızı kaldırın. Bu başlangıç pozisyonudur.",
+      "Şimdi sol bacağınızı yaklaşık 45 derece açıyla yukarı kaldırın, sağ bacağınızı ise topuk yaklaşık olarak 5-8 cm yükseklikte zemine indirin.",
+      "Hareketi değiştirerek sağ bacağınızı yukarı kaldırın ve sol bacağınızı indirin. Bu egzersiz sırasında nefes almaya dikkat edin.",
+      "Önerilen tekrar sayısı kadar tekrarlayın."
+    ],
+    "category": "stretching",
+    "images": [
+      "Scissor_Kick/0.jpg",
+      "Scissor_Kick/1.jpg"
+    ],
+    "id": "Scissor_Kick"
+  },
+  {
+    "name": "Scissors Jump",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Bir bacak önde, diz bükülmüş ve arka diz neredeyse yere değecek şekilde lunge pozisyonu alın.",
+      "Ön dizin ayak bileği üzerinde olduğundan emin olun. İki bacak üzerinden uzanarak, kollarınızı kaldırarak mümkün olduğunca yükseğe sıçrayın.",
+      "Mümkün olduğunca yüksek sıçradığınızda, bacaklarınızın pozisyonunu değiştirerek ön bacağı arkaya ve arka bacağı öne getirin.",
+      "İniş yaparken, lunge pozisyonunu alarak bacaklarınız üzerindeki etkiyi emin. Bu hareketi tekrarlayın."
+    ],
+    "category": "plyometrics",
+    "images": [
+      "Scissors_Jump/0.jpg",
+      "Scissors_Jump/1.jpg"
+    ],
+    "id": "Scissors_Jump"
+  },
+  {
+    "name": "Seated Biceps",
+    "force": "static",
+    "level": "expert",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "biceps"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "shoulders"
+    ],
+    "instructions": [
+      "Eşiniz sizi arkadan dururken dizleriniz bükülmüş bir şekilde yerde oturun. Avuç içleri birbirine bakacak şekilde kollarınızı düz bir şekilde arkaya uzatın. Eşiniz sizin bileklerinizi tutacaktır. Bu başlangıç pozisyonunuz olacaktır.",
+      "Dirseklerinizi bükmeye çalışın, ancak eşiniz herhangi bir hareketi önler.",
+      "10-20 saniye sonra, eşiniz kollarınızı gevşetirken yavaşça bileklerinizi yukarı doğru çekerek bicepsinizi germeye başlar. Germe işleminin uygun olduğunu belirtmek ve aşırı gerilmeyi önlemek için eşinize haber vermek önemlidir."
+    ],
+    "category": "stretching",
+    "images": [
+      "Seated_Biceps/0.jpg",
+      "Seated_Biceps/1.jpg"
+    ],
+    "id": "Seated_Biceps"
+  },
+  {
+    "name": "Seated Flat Bench Leg Pull-In",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Bir bank üzerinde oturun, bacaklarınız hafifçe aşağı paralelde öne doğru uzatılmış olsun ve kollarınız bankın yanlarına tutunmuş olsun. Gövdenizin banktan yaklaşık 45 derece geriye doğru eğildiği bir pozisyon alın. Bu başlangıç pozisyonunuz olacaktır.",
+      "Dizlerinizi kendinize doğru getirin ve aynı zamanda gövdenizi de onlara yaklaştırın. Bu hareketi yaparken nefes verin.",
+      "Bir saniyelik bir duraklamanın ardından, nefes alarak başlangıç pozisyonuna geri dönün.",
+      "Önerilen tekrar sayısını tamamlamak için tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Seated_Flat_Bench_Leg_Pull-In/0.jpg",
+      "Seated_Flat_Bench_Leg_Pull-In/1.jpg"
+    ],
+    "id": "Seated_Flat_Bench_Leg_Pull-In"
+  },
+  {
+    "name": "Seated Front Deltoid",
+    "force": "static",
+    "level": "expert",
+    "mechanic": null,
+    "equipment": "body only",
+    "primaryMuscles": [
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "chest"
+    ],
+    "instructions": [
+      "Bir partnerin arkanda durduğu yerde dik oturun. Bacaklarınızı bükün ve kollarınızı yanlara doğru düz bir şekilde uzatın, avuç içleri yere bakacak şekilde. Partneriniz bileklerinizi tutarken kollarınızı mümkün olduğunca arkaya doğru hareket ettirmeye çalışın. Bu başlangıç pozisyonunuz olacaktır.",
+      "Dirseklerinizi düz tutarak, kollarınızı partnerinizin hafifçe kısıtlamasıyla önünüze doğru hareket ettirmeye çalışın. Gerçek bir hareket olmaması için 10-20 saniye boyunca kısa süreliğine kısın.",
+      "Şimdi kaslarınızı rahatlatın ve partnerinizin omuzlarınızı ve göğsünüzü hafifçe germesine izin verin. 10 ila 20 saniye boyunca bu germe pozisyonunu koruyun."
+    ],
+    "category": "stretching",
+    "images": [
+      "Seated_Front_Deltoid/0.jpg",
+      "Seated_Front_Deltoid/1.jpg"
+    ],
+    "id": "Seated_Front_Deltoid"
+  },
+  {
+    "name": "Seated Glute",
+    "force": "static",
+    "level": "expert",
+    "mechanic": null,
+    "equipment": "body only",
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "adductors"
+    ],
+    "instructions": [
+      "Dizleriniz bükülü bir şekilde oturur pozisyonda olun ve bir dizinizi karşı taraftaki dizinizin üstüne çaprazlayın. Partneriniz arkadan sizin arkada duracak. Şimdi partneriniz omuzlarınızı elleriyle destekleyerek öne doğru eğilmenizi sağlasın. Bu başlangıç pozisyonunuz olacaktır.",
+      "10-20 saniye boyunca, partneriniz gövdenizin herhangi bir gerçek hareketini önlemeye çalışırken, gövdenizi geri itmeye çalışın.",
+      "Şimdi kaslarınızı rahatlatın ve partneriniz omzunuzu hafifçe öne doğru iterken gerilimi artırsın. 10-20 saniye boyunca bu germe pozisyonunu koruyun."
+    ],
+    "category": "stretching",
+    "images": [
+      "Seated_Glute/0.jpg",
+      "Seated_Glute/1.jpg"
+    ],
+    "id": "Seated_Glute"
+  },
+  {
+    "name": "Seated Leg Tucks",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Bir bankta oturun, bacaklarınızı hafifçe aşağı paralelde öne doğru uzatın ve kollarınızı bankın yanlarında tutun. Gövdeniz, banktan yaklaşık 45 derecelik bir açıyla geriye doğru eğilmelidir. Bu başlangıç pozisyonunuz olacaktır.",
+      "Aynı anda gövdenizi dizlerinize doğru hareket ettirerek onları size yaklaştırın. Bu hareketi yaparken nefes verin.",
+      "Bir saniyelik bir duraklamadan sonra, nefes alarak başlangıç pozisyonuna geri dönün.",
+      "Önerilen tekrar sayısı kadar tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Seated_Leg_Tucks/0.jpg",
+      "Seated_Leg_Tucks/1.jpg"
+    ],
+    "id": "Seated_Leg_Tucks"
+  },
+  {
+    "name": "Side Bridge",
+    "force": "static",
+    "level": "beginner",
+    "mechanic": null,
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "instructions": [
+      "Yerde yan yatın, sağ dirseğinizin ve sağ ayaklarınızın üzerinde destek alarak vücudunuzu yukarı kaldırın. Sol kolunuzu bedeninizin yanında rahatça tutun.",
+      "Vücudunuzun düz bir çizgi oluşturduğundan emin olun, kalçalarınızı sıkın ve karın kaslarınızı gergin tutun.",
+      "Bu pozisyonda 20-30 saniye boyunca kalın, sonra diğer tarafa geçin ve aynı süre boyunca tutun.",
+      "Önerilen tekrar sayısını tamamlayana kadar her iki tarafı da tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Side_Bridge/0.jpg",
+      "Side_Bridge/1.jpg"
+    ],
+    "id": "Side_Bridge"
+  },
+  {
+    "name": "Side Jackknife",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": ["Yere yan yatın ve yere yakın olan kolunuzu göğsünüzün hizasında yere uzatın. ",
+    "Diğer kolunuzu da başınızın üzerine doğru uzatın ve yana doğru kalkarak kol ve bacağınızı yukarıda birleştirin.",
+    "2'şer set 20'şer tekrar yapabilirsiniz."],
+    "category": "strength",
+    "images": [
+      "Side_Jackknife/0.jpg",
+      "Side_Jackknife/1.jpg"
+    ],
+    "id": "Side_Jackknife"
+  },
+  {
+    "name": "Side Leg Raises",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": null,
+    "equipment": "body only",
+    "primaryMuscles": [
+      "adductors"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Bir sandalyenin yanına geçin ve destek olarak tutunabilirsiniz. Bir ayak üzerinde durun. Bu başlangıç pozisyonunuz olacaktır.",
+      "Bacağınızı düz tutarak, mümkün olduğunca yan tarafa doğru kaldırın ve tekrar aşağıya sallayın, karşı bacağı geçmesine izin verin.",
+      "Bu sallama hareketini 5-10 kez tekrarlayın, her tekrarda hareket aralığını artırın."
+    ],
+    "category": "stretching",
+    "images": [
+      "Side_Leg_Raises/0.jpg",
+      "Side_Leg_Raises/1.jpg"
+    ],
+    "id": "Side_Leg_Raises"
+  },
+  {
+    "name": "Single-Arm Push-Up",
+    "force": "push",
+    "level": "intermediate",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Yüz üstü yatarak başlayın. Vücut ağırlığınızı parmak uçlarınız ve bir kolunuz üzerinde destekleyecek şekilde pozisyon alın. Çalışan kolunuz omuz altında doğrudan yerleştirilmeli ve tamamen uzatılmalıdır. Bacaklarınız uzatılmış olmalı ve bu hareket için normal bir şınav pozisyonundan daha geniş bir taban gerekebilir, bu nedenle ayaklarınızı normalden daha fazla açabilirsiniz.",
+      "İyi bir duruşu koruyun ve serbest elinizi sırtınızın arkasına yerleştirin. Bu başlangıç pozisyonunuz olacaktır.",
+      "Dirseğinizi bükerek kendinizi yere dokunacak şekilde aşağı indirin.",
+      "Yavaşça alçalın ve ters yönde kollarınızı uzatarak başlangıç pozisyonuna geri dönün."
+    ],
+    "category": "strength",
+    "images": [
+      "Single-Arm_Push-Up/0.jpg",
+      "Single-Arm_Push-Up/1.jpg"
+    ],
+    "id": "Single-Arm_Push-Up"
+  },
+  {
+    "name": "Single Leg Butt Kick",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Bir bacağınız üzerinde ayakta durarak başlayın, diziniz bükülmüş ve kaldırılmış olmalıdır. Bu başlangıç pozisyonunuz olacaktır.",
+      "Diz ve ayak bileği eklemi ile kalçanızı genişleterek kontrollü bir şekilde zıplama hareketi yapın.",
+      "Hemen ardından dizinizi fleksiyon yaparak zıplayan bacağınızın topuğu ile kalçanıza dokunmaya çalışın.",
+      "Bacağı hafifçe bükülmüş bir pozisyonda kalça altında tutarak ve karşı bacak nispeten aynı pozisyonda kalarak tekrar başlangıç noktasına geri dönün."
+    ],
+    "category": "plyometrics",
+    "images": [
+      "Single_Leg_Butt_Kick/0.jpg",
+      "Single_Leg_Butt_Kick/1.jpg"
+    ],
+    "id": "Single_Leg_Butt_Kick"
+  },
+  {
+    "name": "Single Leg Glute Bridge",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings"
+    ],
+ "instructions": [
+    "Sırtüstü yere uzanın, ayaklarınızı düz ve dizlerinizi bükerek yerleştirin.",
+    "Bir bacağınızı yerden kaldırın ve dizinizi göğsünüze doğru çekin. Bu başlangıç pozisyonunuz olacaktır.",
+    "Topuğunuzdan iterek kalçanızı yukarı doğru kaldırarak kalçanızı yerden kaldırın.",
+    "Mümkün olduğunca uzatın, bir süre bekleyin ve ardından başlangıç pozisyonuna geri dönün."
+  ],
+    "category": "strength",
+    "images": [
+      "Single_Leg_Glute_Bridge/0.jpg",
+      "Single_Leg_Glute_Bridge/1.jpg"
+    ],
+    "id": "Single_Leg_Glute_Bridge"
+  },
+  {
+    "name": "Sit-Up",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sırtüstü yere uzanın ve ayaklarınızı hareket etmeyecek bir şeyin altına veya bir partner tarafından tutulmasını sağlayın. Dizleriniz bükülmüş olmalıdır.",
+      "Ellerinizi başınızın arkasına koyun ve parmaklarınızı kavuşturarak kilitlenmiş bir şekilde tutun. Bu başlangıç pozisyonunuz olacaktır.",
+      "Üst vücudunuzu kaldırarak uyluklarınızla hayali bir V şekli oluşturacak şekilde yükseltin. Bu hareketi yaparken nefes verin.",
+      "Bir saniye kadar kasılma hissettiğinizde, üst vücudunuzu başlangıç pozisyonuna geri indirin ve nefes alın.",
+      "Önerilen tekrar sayısı kadar tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Sit-Up/0.jpg",
+      "Sit-Up/1.jpg"
+    ],
+    "id": "Sit-Up"
+  },
+  {
+    "name": "Spider Crawl",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Yere yüz üstü pozisyonda başlayın. Elleriniz ve parmak uçlarınız üzerinde destek alarak ayaklarınızı birleştirin ve vücudunuzu düz tutun. Kollarınız 90 derece bükülü olmalıdır. Bu başlangıç pozisyonunuz olacaktır.",
+      "Hareketi başlatmak için bir ayak yere temas etmeyecek şekilde kaldırın. Bacak dışa doğru dönerek dizinizi dirseğinize mümkün olduğunca ileriye getirin.",
+      "Bu bacağı başlangıç pozisyonuna geri götürün ve karşı tarafta tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Spider_Crawl/0.jpg",
+      "Spider_Crawl/1.jpg"
+    ],
+    "id": "Spider_Crawl"
+  },
+  {
+    "name": "Split Jump",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Bir ayağınız ileriye doğru lunge pozisyonunda olacak şekilde başlayın, ön diziniz bükülmüş durumda ve arka diz neredeyse yere değecek.",
+      "Ön dizinizin ayak parmaklarınızın ortasında olduğundan emin olun.",
+      "Her iki bacağı da kullanarak mümkün olduğunca yükseğe sıçrayın, kollarınızı kullanarak yukarı kalkın.",
+      "Sıçradığınızda, ayaklarınızı bir araya getirin ve inerken başlangıç pozisyonlarına geri dönün.",
+      "İniş sırasında darbe emilimini başlangıç pozisyonuna geri dönerek sağlayın."
+    ],
+    "category": "plyometrics",
+    "images": [
+      "Split_Jump/0.jpg",
+      "Split_Jump/1.jpg"
+    ],
+    "id": "Split_Jump"
+  },
+  {
+    "name": "Standing Hip Circles",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abductors"
+    ],
+    "secondaryMuscles": [
+      "adductors"
+    ],
+    "instructions": [
+    "Bir bacağınız üzerinde durarak, dikey bir destek noktasına tutunun.",
+    "Desteklenmeyen dizinizi 90 dereceye kadar kaldırın. Bu başlangıç pozisyonunuz olacaktır.",
+    "Kalçanızı mümkün olduğunca açın ve dizinizle büyük bir daire çizmeye çalışın.",
+    "Bu hareketi yavaşça birkaç tekrar için gerçekleştirin ve diğer tarafı da tekrarlayın."
+  ],
+    "category": "stretching",
+    "images": [
+      "Standing_Hip_Circles/0.jpg",
+      "Standing_Hip_Circles/1.jpg"
+    ],
+    "id": "Standing_Hip_Circles"
+  },
+  {
+    "name": "Standing Long Jump",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Bu egzersiz kum veya diğer yumuşak iniş yüzeylerinde en iyi şekilde yapılır. Mesafeyi ölçebileceğinizden emin olun. Ayaklarınızı omuz genişliğinde açıkta bir yarı çömlek duruşunda durun.",
+      "Büyük bir kol sallama ve bacakların karşı hareketini kullanarak, mümkün olduğunca ileriye doğru sıçrayın.",
+      "Ayaklarınızı önünüzde uzatarak, bacaklarınızla mümkün olduğunca uzak mesafeye ulaşmaya çalışın.",
+      "İniş noktanızdan başlangıç noktanıza kadar olan mesafeyi ölçün ve sonuçları takip edin."
+    ],
+    "category": "plyometrics",
+    "images": [
+      "Standing_Long_Jump/0.jpg",
+      "Standing_Long_Jump/1.jpg"
+    ],
+    "id": "Standing_Long_Jump"
+  },
+  {
+    "name": "Standing Towel Triceps Extension",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [],
+  "instructions": [
+    "Başlamak için, ayaklarınız omuz genişliğinde aralıkta olacak şekilde, her iki elinizle bir havlunun bir ucunu başınızın üzerinde tamamen uzatılmış olarak tutun. Dirsekleriniz içeriye dönük olmalı, kollarınız yerden dik açı yapacak şekilde başınıza paralel olmalıdır. Avuç içleriniz birbirine bakmalıdır. Bu başlangıç pozisyonudur.",
+    "Şimdi, ortağız diğer tarafından havlunun ucunu kavraması için iletişim kurun. Üst kollarınızı başınıza yakın tutarak (dirsekler içeride) ve yerden dik açı yapacak şekilde, direnci yarı daire şeklinde başınızın arkasına doğru indirin ve ön kolunuzun biceps ile temas ettiği yerde durun. İpucu: Üst kollar sabit kalmalı, sadece ön kollar hareket etmelidir. Bu adımı gerçekleştirirken nefes alın.",
+    "Triceps'i kullanarak havluyu kaldırarak başlangıç pozisyonuna geri dönün. Bu adımı gerçekleştirirken nefes verin.",
+    "Önerilen tekrar sayısını tamamlayana kadar tekrarlayın."
+  ],
+    "category": "strength",
+    "images": [
+      "Standing_Towel_Triceps_Extension/0.jpg",
+      "Standing_Towel_Triceps_Extension/1.jpg"
+    ],
+    "id": "Standing_Towel_Triceps_Extension"
+  },
+  {
+    "name": "Star Jump",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "hamstrings",
+      "shoulders"
+    ],
+    "instructions": [
+      "Rahat bir duruşla başlayın, ayaklarınız omuz genişliğinde aralıkta ve kollarınızı vücudunuza yakın tutun.",
+      "Harekete başlamak için yarı squat pozisyonunda dizlerinizi bükün ve mümkün olduğunca yükseğe sıçrayın. Tüm vücudunuzu tamamen uzatarak, bacaklarınızı ve kollarınızı vücudunuzdan uzaklaştırın.",
+      "İniş yaparken, uzuvlarınızı geri getirin ve darbeliği bacaklarınız aracılığıyla absorbe edin."
+    ],
+    "category": "plyometrics",
+    "images": [
+      "Star_Jump/0.jpg",
+      "Star_Jump/1.jpg"
+    ],
+    "id": "Star_Jump"
+  },
+  {
+    "name": "Step-up with Knee Raise",
+    "force": "push",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "quadriceps"
+    ],
+    "instructions": [
+      "Uygun yükseklikte bir kutu veya sehpaya karşı ayaklarınızı yan yana getirerek durun. Bu başlangıç pozisyonunuz olacak.",
+      "Harekete sol ayağınızı kutunun üstüne koyarak başlayın. Ön bacağınızın kalça ve dizini uzatarak kutunun üstünde durun. Sol ayağınızla kutunun üstünde dururken, sağ dizinizi ve kalçanızı bükerek dizinizi mümkün olduğunca yükseğe getirin.",
+      "Bu hareketi tersine çevirerek kutudan aşağıya adım atın ve ardından karşı bacakta tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Step-up_with_Knee_Raise/0.jpg",
+      "Step-up_with_Knee_Raise/1.jpg"
+    ],
+    "id": "Step-up_with_Knee_Raise"
+  },
+  {
+    "name": "Stomach Vacuum",
+    "force": "static",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Başlamak için ayaklarınız omuz genişliğinde açık olacak şekilde dik durun. Ellerinizi kalçalarınıza yerleştirin. Bu, başlangıç pozisyonunuz olacak.",
+      "Şimdi mümkün olduğunca yavaşça nefes alın ve ardından mümkün olduğunca nefes verirken karnınızı içeri çekin ve bu pozisyonda tutun. Göbek deliğinizin omurganıza dokunduğunu hayal edin.",
+      "Bir izometrik kasılma yaklaşık 20 saniye sürer. 20 saniyelik tutuş süresince normal nefes almaya çalışın. Ardından nefes alın ve karnınızı başlangıç pozisyonuna geri getirin.",
+      "Bu egzersizi uyguladıktan sonra, bu egzersizi 20 saniyeden daha uzun süre boyunca yapmaya çalışın. İpucu: 40-60 saniyeye kadar çalışabilirsiniz.",
+      "Önerilen set sayısı kadar tekrarlayın."
+    ],
+    "category": "stretching",
+    "images": [
+      "Stomach_Vacuum/0.jpg",
+      "Stomach_Vacuum/1.jpg"
+    ],
+    "id": "Stomach_Vacuum"
+  },
+  {
+    "name": "Superman",
+    "force": "static",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "lower back"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Başlamak için yere ya da bir egzersiz matına yüzüstü uzanın. Kollarınız tamamen ileriye doğru uzanmış olmalı. Bu, başlangıç pozisyonunuz olacak.",
+      "Aynı anda kollarınızı, bacaklarınızı ve göğsünüzü yerden kaldırın ve bu kasılmayı 2 saniye boyunca tutun. İpucu: Bu egzersizden en iyi sonucu almak için belinizi sıkın. Bu hareket sırasında nefes vermeyi unutmayın. Not: Kasılı pozisyonu tutarken, uçarken Superman gibi görünmelisiniz.",
+      "Kollarınızı, bacaklarınızı ve göğsünüzü yavaşça tekrar başlangıç pozisyonuna indirirken nefes alın.",
+      "Programınızda belirtilen önerilen tekrar sayısı kadar tekrarlayın."
+    ]
+    ,
+    "category": "stretching",
+    "images": [
+      "Superman/0.jpg",
+      "Superman/1.jpg"
+    ],
+    "id": "Superman"
+  },
+  {
+    "name": "Toe Touchers",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Başlamak için sırtınız yere ya da bir egzersiz matına yaslanmış şekilde uzanın. Kollarınız yanlarınızda avuç içleriniz yere bakacak şekilde uzanmış olmalı.",
+      "Bacaklarınız birbirine değmeli. Bacaklarınızı yavaşça havaya kaldırın, dizleriniz hafifçe bükülmüş ve yere neredeyse dik olacak şekilde. Ayaklarınız yere paralel olmalı.",
+      "Kollarınızı 45 derece açıyla yerden tamamen uzatın. Bu, başlangıç pozisyonunuz olacak.",
+      "Alt sırtınızı yere yaslayarak, yavaşça gövdenizi kaldırın ve ellerinizi kullanarak ayak parmaklarınıza dokunmaya çalışın. Bu kısmı yaparken nefes vermeyi unutmayın.",
+      "Gövdenizi ve kollarınızı yavaşça başlangıç pozisyonuna indirirken nefes alın. Kollarınızın ayak parmaklarınıza doğru uzanmış şekilde düz kalmasını unutmayın.",
+      "Önerilen tekrar sayısı kadar tekrarlayın."
+    ],
+    "category": "stretching",
+    "images": [
+      "Toe_Touchers/0.jpg",
+      "Toe_Touchers/1.jpg"
+    ],
+    "id": "Toe_Touchers"
+  },
+  {
+    "name": "Tuck Crunch",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Başlamak için sırtınız yere ya da bir egzersiz matına yaslanmış şekilde uzanın. Kollarınız yanlarınızda avuç içleriniz yere bakacak şekilde uzanmış olmalı.",
+      "Bacaklarınızı bir bileğinizi diğerinin etrafına dolayarak çaprazlayın. Bacaklarınızı yavaşça havaya kaldırın, dizleriniz hafifçe bükülmüş ve uyluklarınız yere dik olacak şekilde. Not: Dizleriniz ve ayak parmaklarınız uyluklarınıza paralel olmalı.",
+      "Kollarınızı yerden kaldırarak göğsünüzün üzerinde çaprazlayın. Bu, başlangıç pozisyonunuz olacak.",
+      "Alt sırtınızı yere yaslayarak, yavaşça gövdenizi kaldırın. Bu kısmı yaparken nefes vermeyi unutmayın.",
+      "Gövdenizi yavaşça başlangıç pozisyonuna indirirken nefes alın.",
+      "Önerilen tekrar sayısı kadar tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Tuck_Crunch/0.jpg",
+      "Tuck_Crunch/1.jpg"
+    ],
+    "id": "Tuck_Crunch"
+  },
+  {
+    "name": "V-Bar Pullup",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "middle back",
+      "shoulders"
+    ],
+  "instructions": [
+    "V-bar'ın ortasını barfiks barının ortasına yerleştirin (kullandığınız barfiks istasyonunda nötr tutuş kulpları olmadığını varsayarsak). V-Bar kulpları aşağıya bakacak şekilde olmalı ki barfiks barından tutma kulplarını kullanarak asılabilirsiniz.",
+    "V-bar'ı güvenli bir şekilde yerleştirdikten sonra, barın her iki tarafından tutun ve asılın. Göğsünüzü dışarı çıkarın ve kanat kaslarını daha iyi çalıştırmak için kendinizi hafifçe geri yaslayın. Bu, başlangıç pozisyonunuz olacak.",
+    "Kanat kaslarınızı kullanarak, çenenizi barfiks barına çarpmamak için başınızı hafifçe geri yaslayarak gövdenizi yukarı çekin. Göğsünüz neredeyse V-bar'a değene kadar devam edin. Bu hareketi yaparken nefes verin.",
+    "Kasılmış pozisyonda bir saniye bekledikten sonra, nefes alarak vücudunuzu yavaşça başlangıç pozisyonuna indirin.",
+    "Önerilen tekrar sayısı kadar tekrarlayın."
+  ],
+    "category": "strength",
+    "images": [
+      "V-Bar_Pullup/0.jpg",
+      "V-Bar_Pullup/1.jpg"
+    ],
+    "id": "V-Bar_Pullup"
+  },
+  {
+    "name": "Wide-Grip Rear Pull-Up",
+    "force": "pull",
+    "level": "intermediate",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "middle back",
+      "shoulders"
+    ],
+    "instructions": [
+      "Avuç içleriniz ileriye bakacak şekilde geniş bir tutuş kullanarak barfiks barını tutun.",
+      "Her iki kolunuz da önünüzde uzatılmış halde barı tutarken, gövdenizi öne ve başınızı geriye doğru getirin, böylece barfiks barından boynunuzun arkasına kadar hayali bir çizgi oluşur. Bu, başlangıç pozisyonunuz olacak.",
+      "Gövdenizi yukarı çekin, bar neredeyse boynunuzun arkasına gelene kadar. Bunu yapmak için, omuzlarınızı ve üst kollarınızı aşağı ve arkaya doğru çekin ve başınızı hafifçe öne eğin. Bu hareketi yaparken nefes verin. İpucu: Tam kasılmış pozisyona ulaştığınızda sırt kaslarınızı sıkmaya odaklanın. Üst gövde sabit kalmalı ve sadece kollar hareket etmeli. Ön kollar sadece barı tutmalı, başka bir iş yapmamalıdır.",
+      "Kasılmış pozisyonda bir saniye bekledikten sonra, nefes alın ve gövdenizi yavaşça başlangıç pozisyonuna geri indirin, kollarınız tam olarak uzatıldığında ve lat kaslarınız tamamen gerildiğinde.",
+      "Önerilen tekrar sayısı kadar bu hareketi tekrarlayın."
+    ],
+    "category": "strength",
+    "images": [
+      "Wide-Grip_Rear_Pull-Up/0.jpg",
+      "Wide-Grip_Rear_Pull-Up/1.jpg"
+    ],
+    "id": "Wide-Grip_Rear_Pull-Up"
+  },
+  {
+    "name": "Wind Sprints",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "compound",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+   "instructions": [
+    "Pronated bir tutuş kullanarak barfiks barından asılın. Kollarınız ve bacaklarınız uzatılmış halde olmalıdır. Bu, başlangıç pozisyonunuz olacak.",
+    "Bir dizinizi olabildiğince yükseğe hızlı bir şekilde kaldırarak başlayın. Vücudunuzu veya bacaklarınızı sallamayın.",
+    "Hemen hareketi tersine çevirerek, o bacağı başlangıç pozisyonuna geri getirin. Aynı anda, diğer dizinizi olabildiğince yükseğe kaldırın.",
+    "Set tamamlanana kadar bacaklar arasında dönüşümlü olarak devam edin."
+  ],
+    "category": "strength",
+    "images": [
+      "Wind_Sprints/0.jpg",
+      "Wind_Sprints/1.jpg"
+    ],
+    "id": "Wind_Sprints"
+  },
+  {
+    "name": "Wrist Circles",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "body only",
+    "primaryMuscles": [
+      "forearms"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Ayaklarınız omuz genişliğinde açık olacak şekilde düz durarak başlayın. Kollarınızı yanlara doğru uzatarak omuz hizasında ve yere paralel olacak şekilde tam olarak açın. İpucu: Gövdeniz ve kollarınız \"T\" harfini oluşturmalıdır. Avuç içleriniz aşağıya bakmalıdır. Bu, başlangıç pozisyonunuz olacak.",
+      "Tüm vücudunuzu sabit tutarak, sadece bileklerinizi dairesel hareketlerle öne doğru döndürmeye başlayın. İpucu: Ellerinizle daireler çizmeye çalışıyormuş gibi yapın. Bu egzersizi yaparken normal nefes alın.",
+      "Önerilen tekrar sayısı kadar tekrarlayın."
+    ],
+    "category": "stretching",
+    "images": [
+      "Wrist_Circles/0.jpg",
+      "Wrist_Circles/1.jpg"
+    ],
+    "id": "Wrist_Circles"
+  }
+]
